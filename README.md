@@ -65,8 +65,12 @@ the export process stops if an exporter-owned destination file has been edited i
 All published source and body identifiers remain stable. Private research and operational records are omitted.
 `release.json` records catalog counts and checksums for the other public files, excluding itself.
 
-Run `python -m unittest discover -s tests -v` to test the standalone reader.
+Run `python -B checks.py` to validate catalog identities, body metadata, release checksums and local links
+without access to archive texts. Add `--tracked` to check the Git file inventory in a clean checkout.
+Run `python -B -m unittest discover -s tests -v` to test the standalone reader and catalog checks.
 Tests use synthetic texts in external temporary storage.
+GitHub Actions runs both checks on pushes and pull requests, on Windows and Linux with Python 3.11 and 3.14.
+The workflow has read-only repository access and needs no archive, API credentials or third-party Python packages.
 Automated setup checks do not establish that an independent collaborator has completed the walkthrough.
 
 Civilization/era browsing interfaces, saved research collections and optional cited conversation remain

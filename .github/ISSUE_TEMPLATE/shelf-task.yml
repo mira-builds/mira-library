@@ -1,0 +1,32 @@
+name: Shelf completion task
+description: Define a bounded evidence task for an author shelf
+title: "[Shelf] "
+body:
+  - type: input
+    id: shelf
+    attributes:
+      label: Shelf ID and source authority
+      description: Copy the identities from the master index and shelf binding.
+    validations:
+      required: true
+  - type: textarea
+    id: target
+    attributes:
+      label: Target and reading benefit
+      description: Name required works/components, languages, editions and exclusions.
+    validations:
+      required: true
+  - type: textarea
+    id: baseline
+    attributes:
+      label: Baseline and known gaps
+      description: State the public commit and confirm the maintainer checked newer Core holdings.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and acceptance
+      description: Require source links, exact witness identity, actual inspection, limits and honest located/inspected states.
+    validations:
+      required: true

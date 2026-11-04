@@ -1,18 +1,20 @@
 # Mira Library
 
-Grace Mar Library is a curated collection of identifiable works, editions and reading resources.
-This repository contains the full exported catalog and a standalone, read-only passage reader.
-Catalog availability does not mean that a reading copy is included or licensed for redistribution.
-Source texts, scans, private research, operational records and upstream Git history are not included.
-Mira Core remains the authoritative collection; this repository is its maintained public export.
+The canonical public collaboration repository is
+[mira-builds/mira-library](https://github.com/mira-builds/mira-library).
+Use [the master index](library/library-index.md) to find an author shelf, then
+follow [CONTRIBUTING](CONTRIBUTING.md) and the [initial assignments](collaboration/assignments/README.md).
 
-The canonical public repository is [here](https://github.com/rbtkhn/mira-library).
-[The mirror](https://github.com/mira-builds/mira-library) receives the same Git branches and tags
-automatically. Submit changes to the canonical repository. Issues, pull requests, repository settings
-and release attachments are not mirrored. Catalog corrections still belong in the upstream collection.
+This is a public catalog and standalone read-only passage reader. Core remains
+the collection admission and curation authority. Source texts, scans, private
+profiles, operational records and Core Git history are not included.
 
-Browse the [collection](library/README.md), [text index](library/text-sources-index.md),
-and [reading guide](library/reading.md). Music reference guides are in [Music](library/music/README.md).
+The incoming destructive mirror must be retired before this transition is
+published. Proposals are reviewed data, kept outside the released collection
+inventory; accepting a proposal does not itself admit text or change a score.
+This collaboration baseline derives from public commit
+`1cfbff19d70db367a3d89ce8fd5a62576c4ca25d` (270 records, 823 body records).
+Newer Core working content requires a separately reviewed export.
 
 ## Use
 
@@ -21,7 +23,7 @@ Clone the repository, or choose **Code → Download ZIP** on GitHub and extract 
 the resulting folder. There is no installer, browser application or AI account requirement.
 
 ```powershell
-git clone https://github.com/rbtkhn/mira-library.git
+git clone https://github.com/mira-builds/mira-library.git
 cd mira-library
 python --version
 ```

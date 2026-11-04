@@ -1,0 +1,86 @@
+# Colonial
+
+1453 AD to 1815 AD
+
+[Collection](../README.md)
+
+- `LIB-COLONIAL-AUTHORITY-001-SHAKESPEARE` — Shakespeare, plays and poems
+- `LIB-COLONIAL-AUTHORITY-002-MILTON` — Milton, Paradise Lost and political prose
+- `LIB-COLONIAL-AUTHORITY-009-PAINE` — Paine, Common Sense / Rights of Man
+- `LIB-COLONIAL-AUTHORITY-019-MONTAIGNE-ESSAIS` — Montaigne, Essais
+- `LIB-COLONIAL-AUTHORITY-023-VOLTAIRE` — Voltaire: collected writings and correspondence
+- `LIB-COLONIAL-AUTHORITY-034-BABURNAMA` — Baburnama / Babur
+- `LIB-COLONIAL-AUTHORITY-038-ADAM-SMITH` — Adam Smith, Wealth of Nations
+- `LIB-COLONIAL-AUTHORITY-044-DECLARATION-INDEPENDENCE` — Declaration of Independence
+- `LIB-COLONIAL-AUTHORITY-045-US-CONSTITUTION-BILL-RIGHTS` — U.S. Constitution and Bill of Rights
+- `LIB-COLONIAL-AUTHORITY-048-AMERICAN-INDIAN-TREATIES` — American Indian treaty texts, 1722-1815 ratified-treaty subset
+- `LIB-COLONIAL-AUTHORITY-052-LEYES-NUEVAS` — Leyes Nuevas / New Laws of the Indies, 1542
+- `LIB-COLONIAL-AUTHORITY-072-AIN-I-AKBARI` — Ain-i-Akbari / Mughal imperial administration
+- `LIB-COLONIAL-AUTHORITY-003-BUNYAN` — Bunyan, Pilgrim's Progress
+- `LIB-COLONIAL-AUTHORITY-004-BEHN-OROONOKO` — Aphra Behn, Oroonoko
+- `LIB-COLONIAL-AUTHORITY-005-DEFOE-ROBINSON-CRUSOE` — Defoe, Robinson Crusoe
+- `LIB-COLONIAL-AUTHORITY-006-SWIFT-GULLIVER` — Swift, Gulliver's Travels
+- `LIB-COLONIAL-AUTHORITY-007-JOHNSON` — Samuel Johnson, essays/dictionary/Rasselas
+- `LIB-COLONIAL-AUTHORITY-008-BLAKE` — Blake, poems/prophetic books
+- `LIB-COLONIAL-AUTHORITY-011-WHEATLEY` — Phillis Wheatley, poems
+- `LIB-COLONIAL-AUTHORITY-012-EQUIANO` — Equiano, Interesting Narrative
+- `LIB-COLONIAL-AUTHORITY-013-CUGOANO` — Cugoano, abolition text
+- `LIB-COLONIAL-AUTHORITY-014-CERVANTES-DON-QUIXOTE` — Cervantes, Don Quixote
+- `LIB-COLONIAL-AUTHORITY-015-CAMOES-LUSIADS` — Camoes, Os Lusiadas
+- `LIB-COLONIAL-AUTHORITY-016-SOR-JUANA` — Sor Juana Ines de la Cruz, poems/prose
+- `LIB-COLONIAL-AUTHORITY-017-INCA-GARCILASO` — Inca Garcilaso de la Vega, Comentarios Reales de los Incas
+- `LIB-COLONIAL-AUTHORITY-018-CALDERON` — Calderon, drama
+- `LIB-COLONIAL-AUTHORITY-020-MOLIERE` — Moliere, plays
+- `LIB-COLONIAL-AUTHORITY-021-RACINE` — Racine, tragedies
+- `LIB-COLONIAL-AUTHORITY-022-LA-FONTAINE` — La Fontaine, fables
+- `LIB-COLONIAL-AUTHORITY-024-ROUSSEAU` — Rousseau, Confessions / Social Contract
+- `LIB-COLONIAL-AUTHORITY-025-GOETHE` — Goethe: writings, correspondence, diaries and reported conversations
+- `LIB-COLONIAL-AUTHORITY-026-SCHILLER` — Schiller, dramas/essays
+- `LIB-COLONIAL-AUTHORITY-027-BASHO` — Basho, Oku no Hosomichi
+- `LIB-COLONIAL-AUTHORITY-028-SAIKAKU` — Ihara Saikaku, selected prose: pleasure and merchant worlds
+- `LIB-COLONIAL-AUTHORITY-029-CHIKAMATSU` — Chikamatsu Monzaemon, selected plays
+- `LIB-COLONIAL-AUTHORITY-030-UEDA-AKINARI` — Ueda Akinari, Ugetsu Monogatari
+- `LIB-COLONIAL-AUTHORITY-031-TAKUAN-SOHO` — Takuan Soho, early Edo Zen teachings
+- `LIB-COLONIAL-AUTHORITY-032-CAO-XUEQIN` — Cao Xueqin, Dream of the Red Chamber
+- `LIB-COLONIAL-AUTHORITY-033-PU-SONGLING` — Pu Songling, Strange Tales
+- `LIB-COLONIAL-AUTHORITY-035-MIR-TAQI-MIR` — Mir Taqi Mir, selected ghazals and Zikr-i-Mir boundary
+- `LIB-COLONIAL-AUTHORITY-036-HAITIAN-REVOLUTIONARY-DECLARATIONS` — Haitian revolutionary declarations/proclamations
+- `LIB-COLONIAL-AUTHORITY-057-QING-IMPERIAL-EDICTS` — Qing imperial edicts
+- `LIB-COLONIAL-AUTHORITY-058-KANGXI-EDICTS` — Kangxi Sacred Edict / sixteen maxims
+- `LIB-COLONIAL-AUTHORITY-059-QIANLONG-MACARTNEY` — Qianlong-Macartney diplomatic packet, 1793
+- `LIB-COLONIAL-AUTHORITY-060-QINGSHIGAO` — Draft History of Qing / Qing history tradition
+- `LIB-COLONIAL-AUTHORITY-061-TOKUGAWA-EDICTS` — Tokugawa selected edicts/legal tradition
+- `LIB-COLONIAL-AUTHORITY-062-TOKUGAWA-IEYASU-PUBLICATION` — Tokugawa/Ieyasu publication corpus
+- `LIB-COLONIAL-AUTHORITY-070-OTTOMAN-KANUN` — Ottoman kanun / legal-administrative tradition
+- `LIB-COLONIAL-AUTHORITY-071-SAFAVID-COURT-CHRONICLE` — Eskandar Beg Monshi, Alam ara-ye Abbasi
+- `LIB-COLONIAL-AUTHORITY-037-LOCKE` — Locke, political writings
+- `LIB-COLONIAL-AUTHORITY-039-EIC-CHARTERS` — East India Company charter/document tradition
+- `LIB-COLONIAL-AUTHORITY-040-CLIVE-PLASSEY` — Robert Clive / Plassey documentary tradition
+- `LIB-COLONIAL-AUTHORITY-041-BENGAL-REVENUE-SETTLEMENT` — Bengal Permanent Settlement Regulation / revenue materials, 1793
+- `LIB-COLONIAL-AUTHORITY-042-BRITISH-SLAVERY-LAW` — British slavery-law / abolition documents
+- `LIB-COLONIAL-AUTHORITY-043-WILBERFORCE` — Wilberforce abolition speeches
+- `LIB-COLONIAL-AUTHORITY-046-FEDERALIST-PAPERS` — Federalist Papers
+- `LIB-COLONIAL-AUTHORITY-047-TREATY-PARIS-AMERICAN-INDEPENDENCE` — Treaty of Paris / American independence diplomacy
+- `LIB-COLONIAL-AUTHORITY-049-GB-INDIAN-DEPARTMENT-PAPERS` — Great Britain Indian Department papers, 1753-1795
+- `LIB-COLONIAL-AUTHORITY-050-MEHERRIN-PETITION` — Meherrin Petition to the Governor, 1723
+- `LIB-COLONIAL-AUTHORITY-051-LAS-CASAS` — Las Casas, conquest testimony
+- `LIB-COLONIAL-AUTHORITY-053-PORTUGUESE-GOA-ESTADO-INDIA` — Portuguese Goa / Estado da India selected administrative documents
+- `LIB-COLONIAL-AUTHORITY-054-JESUIT-MISSION-LETTERS` — Lettres edifiantes et curieuses / Jesuit mission-letter packet
+- `LIB-COLONIAL-AUTHORITY-055-MATTEO-RICCI` — Matteo Ricci, China mission account
+- `LIB-COLONIAL-AUTHORITY-056-DU-HALDE-CHINA` — Du Halde, China description
+- `LIB-COLONIAL-AUTHORITY-063-VOC-CHARTERS` — Dutch VOC charter/company records
+- `LIB-COLONIAL-AUTHORITY-064-DUTCH-ACT-ABJURATION` — Dutch Act of Abjuration
+- `LIB-COLONIAL-AUTHORITY-065-GROTIUS-MARE-LIBERUM` — Grotius, Mare Liberum
+- `LIB-COLONIAL-AUTHORITY-066-LUTHER` — Luther, Reformation writings
+- `LIB-COLONIAL-AUTHORITY-067-AUGSBURG-CONFESSION` — Augsburg Confession
+- `LIB-COLONIAL-AUTHORITY-068-PEACE-WESTPHALIA` — Peace of Westphalia treaty corpus
+- `LIB-COLONIAL-AUTHORITY-069-NAPOLEONIC-CODE` — Napoleonic Code
+- `LIB-COLONIAL-AUTHORITY-010-FRANKLIN` — Franklin, autobiography/essays
+- `LIB-COLONIAL-AUTHORITY-073-SOBORNOE-ULOZHENIE` — Sobornoye Ulozhenie / Muscovite law code, 1649
+- `LIB-COLONIAL-AUTHORITY-074-PETER-TABLE-RANKS` — Peter the Great, Table of Ranks and Petrine service-state decrees
+- `LIB-COLONIAL-AUTHORITY-075-CATHERINE-NAKAZ` — Catherine II, Nakaz / Instruction to the Legislative Commission
+- `LIB-COLONIAL-AUTHORITY-076-RUSSIAN-LITERARY-ANTHOLOGY` — Russian early-modern literary voices: Lomonosov, Derzhavin, historical songs
+- `LIB-COLONIAL-AUTHORITY-077-RUSSIAN-SIBERIAN-EXPANSION` — Russian Siberian and steppe expansion document tradition
+- `LIB-COLONIAL-AUTHORITY-078-BURKE` — Speech on Fox’s East India Bill
+- `LIB-COLONIAL-AUTHORITY-079-HUME` — Of Public Credit
+- `LIB-COLONIAL-AUTHORITY-080-MACHIAVELLI` — Discourses on Livy

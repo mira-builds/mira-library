@@ -1,0 +1,62 @@
+# Ancient
+
+BC to 476 AD
+
+[Collection](../README.md)
+
+- `LIB-ANCIENT-AUTHOR-001-ASHOKA` — Rock and Pillar Edicts
+- `LIB-ANCIENT-AUTHOR-002-KAUTILYA` — Arthashastra
+- `LIB-ANCIENT-AUTHOR-003-HERODOTUS` — Histories
+- `LIB-ANCIENT-AUTHOR-004-STRABO` — Geographica
+- `LIB-ANCIENT-AUTHOR-005-DARIUS-I` — Behistun Inscription
+- `LIB-ANCIENT-AUTHOR-006-JULIUS-CAESAR` — Commentarii, especially Commentarii de Bello Gallico
+- `LIB-ANCIENT-AUTHOR-007-TACITUS` — Annals; Histories; Germania
+- `LIB-ANCIENT-AUTHOR-008-CONFUCIUS-KONGZI` — Analects; Spring and Autumn Annals attribution
+- `LIB-ANCIENT-AUTHOR-009-LAOZI` — Dao De Jing
+- `LIB-ANCIENT-AUTHOR-010-SUNZI` — The Art of War
+- `LIB-ANCIENT-AUTHOR-011-VEDIC-SEER-TRADITION` — Vedas
+- `LIB-ANCIENT-AUTHOR-012-UPANISHADIC-TRADITION` — Principal Upanishads
+- `LIB-ANCIENT-AUTHOR-013-VYASA-MAHABHARATA-TRADITION` — Mahabharata; Bhagavad Gita
+- `LIB-ANCIENT-AUTHOR-014-VALMIKI` — Ramayana
+- `LIB-ANCIENT-AUTHOR-015-AVESTAN-GATHIC-TRADITION` — Avesta; Gathas
+- `LIB-ANCIENT-AUTHOR-016-CYRUS-II-ACHAEMENID-CHANCERY` — Cyrus Cylinder
+- `LIB-ANCIENT-AUTHOR-017-MENCIUS-MENGZI` — Mencius
+- `LIB-ANCIENT-AUTHOR-018-ZHUANGZI` — Zhuangzi
+- `LIB-ANCIENT-AUTHOR-019-HAN-FEIZI` — Han Feizi
+- `LIB-ANCIENT-AUTHOR-020-SIMA-QIAN` — Shiji / Records of the Grand Historian
+- `LIB-ANCIENT-AUTHOR-021-BAN-GU` — Hanshu / Book of Han
+- `LIB-ANCIENT-AUTHOR-022-FAN-YE` — Hou Hanshu / Book of the Later Han
+- `LIB-ANCIENT-AUTHOR-023-CHEN-SHOU` — Sanguozhi / Records of the Three Kingdoms
+- `LIB-ANCIENT-AUTHOR-024-YIJING-TRADITION` — Yijing / Book of Changes
+- `LIB-ANCIENT-AUTHOR-025-SHUJING-TRADITION` — Shujing / Book of Documents
+- `LIB-ANCIENT-AUTHOR-026-SHIJING-TRADITION` — Shijing / Book of Odes
+- `LIB-ANCIENT-AUTHOR-027-THUCYDIDES` — History of the Peloponnesian War
+- `LIB-ANCIENT-AUTHOR-028-XENOPHON` — Anabasis; Cyropaedia; Hellenica
+- `LIB-ANCIENT-AUTHOR-029-POLYBIUS` — Histories
+- `LIB-ANCIENT-AUTHOR-030-DIODORUS-SICULUS` — Bibliotheca Historica
+- `LIB-ANCIENT-AUTHOR-031-DIONYSIUS-OF-HALICARNASSUS` — Roman Antiquities
+- `LIB-ANCIENT-AUTHOR-032-PLUTARCH` — Parallel Lives; Life of Artaxerxes; Life of Alexander
+- `LIB-ANCIENT-AUTHOR-033-ARRIAN` — Anabasis of Alexander; Indica
+- `LIB-ANCIENT-AUTHOR-034-CICERO` — Orations; Letters; Philosophical Works
+- `LIB-ANCIENT-AUTHOR-035-LIVY` — Ab Urbe Condita
+- `LIB-ANCIENT-AUTHOR-036-SALLUST` — Bellum Catilinae; Bellum Jugurthinum
+- `LIB-ANCIENT-AUTHOR-037-PLINY-THE-ELDER` — Naturalis Historia / Natural History
+- `LIB-ANCIENT-AUTHOR-038-SUETONIUS` — De Vita Caesarum / Lives of the Caesars
+- `LIB-ANCIENT-AUTHOR-039-HOMER` — Iliad; Odyssey
+- `LIB-ANCIENT-AUTHOR-040-PLATO` — Republic; dialogues
+- `LIB-ANCIENT-AUTHOR-041-ARISTOTLE` — Politics; Nicomachean Ethics
+- `LIB-ANCIENT-AUTHOR-042-SOPHOCLES` — Antigone; Oedipus Rex
+- `LIB-ANCIENT-AUTHOR-043-VIRGIL` — Aeneid
+- `LIB-ANCIENT-AUTHOR-044-LUCRETIUS` — De Rerum Natura / On the Nature of Things
+- `LIB-ANCIENT-AUTHOR-045-PTOLEMY` — Geography
+- `LIB-ANCIENT-AUTHOR-046-AMMIANUS-MARCELLINUS` — Res Gestae
+- `LIB-ANCIENT-AUTHOR-047-JOSEPHUS` — Jewish War; Antiquities
+- `LIB-ANCIENT-AUTHOR-048-EUSEBIUS-OF-CAESAREA` — Ecclesiastical History
+- `LIB-ANCIENT-AUTHOR-049-AURELIUS-VICTOR` — De Caesaribus
+- `LIB-ANCIENT-AUTHOR-050-EUTROPIUS` — Breviarium
+- `LIB-ANCIENT-AUTHOR-051-BIBLICAL-TRADITION` — Hebrew Bible / Old Testament; New Testament
+- `LIB-ANCIENT-AUTHOR-052-BUDDHIST-DHAMMAPADA-TRADITION` — Dhammapada
+- `LIB-ANCIENT-AUTHOR-053-JAIN-ACARANGA-TRADITION` — Acaranga Sutra
+- `LIB-ANCIENT-AUTHOR-054-EGYPTIAN-MORTUARY-TRADITION` — Book of the Dead; Pyramid Texts
+- `LIB-ANCIENT-AUTHOR-055-MESOPOTAMIAN-COSMOLOGICAL-TRADITION` — Enuma Elish; hymns and laments
+- `LIB-ANCIENT-AUTHOR-056-ZARATHUSTRA-GATHAS` — Gathas

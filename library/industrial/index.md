@@ -1,0 +1,74 @@
+# Industrial
+
+1815 AD to 1991 AD
+
+[Collection](../README.md)
+
+- `LIB-INDUSTRIAL-AUTHORITY-001-AUSTEN` — Persuasion
+- `LIB-INDUSTRIAL-AUTHORITY-002-SHELLEY` — Frankenstein
+- `LIB-INDUSTRIAL-AUTHORITY-006-DICKENS` — Hard Times; Bleak House
+- `LIB-INDUSTRIAL-AUTHORITY-009-ELIOT` — Middlemarch
+- `LIB-INDUSTRIAL-AUTHORITY-026-DOUGLASS` — Narrative; selected speeches
+- `LIB-INDUSTRIAL-AUTHORITY-027-JACOBS` — Incidents in the Life of a Slave Girl
+- `LIB-INDUSTRIAL-AUTHORITY-025-DU-BOIS` — The Souls of Black Folk
+- `LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE` — Moby-Dick
+- `LIB-INDUSTRIAL-AUTHORITY-024-TWAIN` — Huckleberry Finn; Life on the Mississippi
+- `LIB-INDUSTRIAL-AUTHORITY-061-ZOLA` — Germinal; J'accuse
+- `LIB-INDUSTRIAL-AUTHORITY-062-HARDY` — Tess; Jude the Obscure
+- `LIB-INDUSTRIAL-AUTHORITY-063-WILDE` — plays; De Profundis
+- `LIB-INDUSTRIAL-AUTHORITY-029-MARX` — Capital; Communist Manifesto
+- `LIB-INDUSTRIAL-AUTHORITY-030-ENGELS` — Condition of the Working Class in England
+- `LIB-INDUSTRIAL-AUTHORITY-031-MILL` — On Liberty; Subjection of Women
+- `LIB-INDUSTRIAL-AUTHORITY-032-TOCQUEVILLE` — Democracy in America; Old Regime
+- `LIB-INDUSTRIAL-AUTHORITY-038-DARWIN` — Origin of Species; Descent of Man
+- `LIB-INDUSTRIAL-AUTHORITY-039-WALLACE` — Malay Archipelago
+- `LIB-INDUSTRIAL-AUTHORITY-041-BABBAGE` — Economy of Machinery and Manufactures
+- `LIB-INDUSTRIAL-AUTHORITY-042-NIGHTINGALE` — Notes on Nursing; sanitary reports
+- `LIB-INDUSTRIAL-AUTHORITY-043-THOREAU` — Civil Disobedience; Walden
+- `LIB-INDUSTRIAL-AUTHORITY-044-RUSKIN` — Unto This Last
+- `LIB-INDUSTRIAL-AUTHORITY-045-MORRIS` — News from Nowhere; essays
+- `LIB-INDUSTRIAL-AUTHORITY-083-WELLS` — anti-lynching pamphlets
+- `LIB-INDUSTRIAL-AUTHORITY-020-RIZAL` — Noli Me Tangere; El Filibusterismo
+- `LIB-INDUSTRIAL-AUTHORITY-015-TAGORE` — Gitanjali; Nationalism
+- `LIB-INDUSTRIAL-AUTHORITY-049-SUN-YAT-SEN` — Three Principles of the People
+- `LIB-INDUSTRIAL-AUTHORITY-051-FUKUZAWA` — Encouragement of Learning; civilization essays
+- `LIB-INDUSTRIAL-AUTHORITY-046-GANDHI` — Hind Swaraj; speeches
+- `LIB-INDUSTRIAL-AUTHORITY-048-AMBEDKAR` — Annihilation of Caste; constitutional speeches
+- `LIB-INDUSTRIAL-AUTHORITY-076-MARTI` — Nuestra America; selected essays
+- `LIB-INDUSTRIAL-AUTHORITY-091-QIU-JIN` — poems, essays, revolutionary writings
+- `LIB-INDUSTRIAL-AUTHORITY-092-KANG-LIANG` — reform memorials and essays
+- `LIB-INDUSTRIAL-AUTHORITY-017-SOSEKI` — Kokoro
+- `LIB-INDUSTRIAL-AUTHORITY-016-LU-XUN` — A Madman's Diary; selected stories
+- `LIB-INDUSTRIAL-AUTHORITY-018-PREMCHAND` — Godan; selected stories
+- `LIB-INDUSTRIAL-AUTHORITY-003-PUSHKIN` — Eugene Onegin; selected poems
+- `LIB-INDUSTRIAL-AUTHORITY-004-BALZAC` — Pere Goriot; selected Comedie humaine
+- `LIB-INDUSTRIAL-AUTHORITY-005-HUGO` — Les Miserables
+- `LIB-INDUSTRIAL-AUTHORITY-007-CHARLOTTE-BRONTE` — Jane Eyre
+- `LIB-INDUSTRIAL-AUTHORITY-008-EMILY-BRONTE` — Wuthering Heights
+- `LIB-INDUSTRIAL-AUTHORITY-010-FLAUBERT` — Madame Bovary
+- `LIB-INDUSTRIAL-AUTHORITY-011-DOSTOEVSKY` — Notes from Underground; Brothers Karamazov
+- `LIB-INDUSTRIAL-AUTHORITY-012-TOLSTOY` — Tolstoy: collected writings, diaries and correspondence
+- `LIB-INDUSTRIAL-AUTHORITY-013-IBSEN` — A Doll's House; An Enemy of the People
+- `LIB-INDUSTRIAL-AUTHORITY-014-CHEKHOV` — selected plays and stories
+- `LIB-INDUSTRIAL-AUTHORITY-021-WHITMAN` — Leaves of Grass
+- `LIB-INDUSTRIAL-AUTHORITY-022-DICKINSON` — poems
+- `LIB-INDUSTRIAL-AUTHORITY-019-MACHADO-DE-ASSIS` — Dom Casmurro; Posthumous Memoirs of Bras Cubas
+- `LIB-INDUSTRIAL-AUTHORITY-028-SOJOURNER-TRUTH` — speeches and dictated/narrated testimony
+- `LIB-INDUSTRIAL-AUTHORITY-040-FARADAY` — lectures and experimental writings
+- `LIB-INDUSTRIAL-AUTHORITY-064-CONRAD` — Heart of Darkness; Lord Jim
+- `LIB-INDUSTRIAL-AUTHORITY-081-SCHREINER` — The Story of an African Farm; selected political writings
+- `LIB-INDUSTRIAL-AUTHORITY-082-STANTON` — Seneca Falls materials; speeches
+- `LIB-INDUSTRIAL-AUTHORITY-084-ZITKALA-SA` — American Indian Stories; selected essays
+- `LIB-INDUSTRIAL-AUTHORITY-093-WASHINGTON` — Up from Slavery; Atlanta Exposition address
+- `LIB-INDUSTRIAL-AUTHORITY-036-NIETZSCHE` — On the Genealogy of Morals; Thus Spake Zarathustra
+- `LIB-INDUSTRIAL-AUTHORITY-054-LUXEMBURG` — Reform or Revolution; The Junius Pamphlet
+- `LIB-INDUSTRIAL-AUTHORITY-033-WEBER` — The Protestant Ethic; political essays
+- `LIB-INDUSTRIAL-AUTHORITY-034-DURKHEIM` — Division of Labor; Suicide
+- `LIB-INDUSTRIAL-AUTHORITY-035-FREUD` — Civilization and Its Discontents; selected psychoanalytic writings
+- `LIB-INDUSTRIAL-AUTHORITY-053-LENIN` — Imperialism; State and Revolution
+- `LIB-INDUSTRIAL-AUTHORITY-057-CHURCHILL` — selected works
+- `LIB-INDUSTRIAL-AUTHORITY-060-MANDELA` — trial statement; speeches
+- `LIB-INDUSTRIAL-AUTHORITY-079-EINSTEIN` — relativity essays; nuclear-era letters
+- `LIB-INDUSTRIAL-AUTHORITY-080-UDHR-DRAFTING` — UDHR and drafting documents
+- `LIB-INDUSTRIAL-AUTHORITY-096-UNITED-NATIONS-CHARTER` — UN Charter; conference records
+- `LIB-INDUSTRIAL-AUTHORITY-078-CARSON` — Silent Spring

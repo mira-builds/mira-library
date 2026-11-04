@@ -1,0 +1,51 @@
+name: Mirror public repository
+
+on:
+  push:
+    branches: ['**']
+    tags: ['**']
+  create:
+  delete:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: public-repository-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    if: github.repository == 'rbtkhn/mira-library'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Synchronize branches and tags, then verify
+        shell: bash
+        env:
+          MIRROR_KEY: ${{ secrets.MIRA_LIBRARY_MIRROR_KEY }}
+        run: |
+          set -euo pipefail
+          test -n "$MIRROR_KEY"
+          umask 077
+          work=$(mktemp -d)
+          trap 'rm -rf -- "$work"' EXIT
+          printf '%s\n' "$MIRROR_KEY" > "$work/key"
+          unset MIRROR_KEY
+          printf '%s\n' 'github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl' > "$work/known_hosts"
+          export GIT_SSH_COMMAND="ssh -i $work/key -o IdentitiesOnly=yes -o BatchMode=yes -o StrictHostKeyChecking=yes -o UserKnownHostsFile=$work/known_hosts"
+          export GIT_TERMINAL_PROMPT=0
+          export LC_ALL=C
+          git init --bare "$work/repository.git"
+          cd "$work/repository.git"
+          git fetch --no-tags https://github.com/rbtkhn/mira-library.git \
+            '+refs/heads/*:refs/heads/*' '+refs/tags/*:refs/tags/*'
+          git show-ref --verify refs/heads/main
+          git for-each-ref --format='%(objectname)%09%(refname)' refs/heads refs/tags | sort > "$work/expected"
+          git push --atomic --prune git@github.com:mira-builds/mira-library.git \
+            '+refs/heads/*:refs/heads/*' '+refs/tags/*:refs/tags/*'
+          git ls-remote --refs git@github.com:mira-builds/mira-library.git \
+            'refs/heads/*' 'refs/tags/*' | sort > "$work/actual"
+          diff -u "$work/expected" "$work/actual"
+          echo 'Mirror branch and tag hashes match the captured source snapshot.'

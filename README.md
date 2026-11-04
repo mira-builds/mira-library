@@ -6,6 +6,11 @@ Catalog availability does not mean that a reading copy is included or licensed f
 Source texts, scans, private research, operational records and upstream Git history are not included.
 Mira Core remains the authoritative collection; this repository is its maintained public export.
 
+The canonical public repository is [here](https://github.com/rbtkhn/mira-library).
+[The mirror](https://github.com/mira-builds/mira-library) receives the same Git branches and tags
+automatically. Submit changes to the canonical repository. Issues, pull requests, repository settings
+and release attachments are not mirrored. Catalog corrections still belong in the upstream collection.
+
 Browse the [collection](library/README.md), [text index](library/text-sources-index.md),
 and [reading guide](library/reading.md). Music reference guides are in [Music](library/music/README.md).
 
@@ -16,7 +21,7 @@ Clone the repository, or choose **Code → Download ZIP** on GitHub and extract 
 the resulting folder. There is no installer, browser application or AI account requirement.
 
 ```powershell
-git clone https://github.com/mira-builds/mira-library.git
+git clone https://github.com/rbtkhn/mira-library.git
 cd mira-library
 python --version
 ```

@@ -7,6 +7,7 @@ import posixpath
 import re
 import subprocess
 import sys
+from contribution_checks import validate_proposals
 
 
 class CheckError(ValueError):
@@ -38,10 +39,11 @@ def validate(root, tracked=False):
         require(path.is_file(), 'Missing published file: ' + name)
         require(isinstance(expected, str) and re.fullmatch('[0-9a-f]{64}', expected), 'Invalid file digest: ' + name)
         require(hashlib.sha256(path.read_bytes()).hexdigest() == expected, 'Published checksum mismatch: ' + name)
+    names = None
     if tracked:
         result = subprocess.run(['git', '-C', str(root), 'ls-files', '-z'], capture_output=True, check=True)
         names = set(result.stdout.decode('utf-8').rstrip('\0').split('\0'))
-        require(names == set(files) | {'release.json'}, 'Git tracked inventory differs from release inventory')
+        require(set(files) | {'release.json'} <= names, 'Git tracked inventory omits released files')
     registry = json.loads((root / 'library/library-registry.json').read_text(encoding='utf-8'))
     require(registry.get('schema_version') == 1, 'Unknown catalog schema')
     sources = registry.get('sources')
@@ -78,7 +80,11 @@ def validate(root, tracked=False):
                 continue
             target = posixpath.normpath(posixpath.join(str(PurePosixPath(name).parent), target))
             require(target in files or target == 'release.json', 'Broken local link: ' + name + ' -> ' + target)
-    return {'status': 'passed', 'sources': len(source_ids), 'bodies': len(body_ids),
+    try:
+        proposals = validate_proposals(root, files, names)
+    except ValueError as error:
+        raise CheckError('Git tracked inventory or proposal validation failed: ' + str(error)) from error
+    return {'status': 'passed', 'sources': len(source_ids), 'bodies': len(body_ids), 'proposals': proposals,
             'files': len(files) + 1, 'tracked_inventory_checked': tracked, 'archive_required': False}
 
 

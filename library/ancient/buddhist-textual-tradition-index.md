@@ -1,0 +1,14 @@
+# Buddhist textual tradition — buddhist-textual-tradition-shelf
+
+Source authority: `LIB-ANCIENT-AUTHOR-052-BUDDHIST-DHAMMAPADA-TRADITION`  
+Status: generated public metadata inventory; assessment unassessed; no reading or current local availability is claimed.
+
+[Master index](../library-index.md) · [Contribution instructions](../../CONTRIBUTING.md)
+
+Recorded coverage: `principal-work`. Recorded notes may contain historical statements and have not been independently reconciled.
+
+| Body ID | Work | Edition | Language | Recorded status |
+| --- | --- | --- | --- | --- |
+| LIB-ANCIENT-AUTHOR-052-BUDDHIST-DHAMMAPADA-TRADITION-DHAMMAPADA-MULLER-GUTENBERG-2017 | Dhammapada | Project Gutenberg #2017; F. Max Muller translation from Pali; Sacred Books of the East Volume X Part I | english | available |
+
+To propose a source or correction, use this shelf’s issue and a metadata/evidence JSON PR. Source downloads and private file inspection are not established by this list. The maintainer checks newer Core holdings before assignment to avoid duplicate acquisition.

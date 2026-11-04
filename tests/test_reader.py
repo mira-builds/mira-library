@@ -127,11 +127,13 @@ class ReaderTests(unittest.TestCase):
 
     def test_resolved_escape_rejected_without_symlink_privilege(self):
         original_resolve = Path.resolve
-        escaping = self.archive / 'work.txt'
+        # Windows temporary roots may use short names that resolve to long names.
+        escaping = (self.archive / 'work.txt').resolve()
         def resolve(path, *args, **kwargs):
-            if path == escaping:
+            resolved = original_resolve(path, *args, **kwargs)
+            if resolved == escaping:
                 return original_resolve(self.base / 'outside.txt')
-            return original_resolve(path, *args, **kwargs)
+            return resolved
         with patch.object(Path, 'resolve', resolve), self.assertRaisesRegex(catalog.LibraryError, 'escapes'):
             catalog.verified_bytes(self.body, self.archive, self.repo)
 

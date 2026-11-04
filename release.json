@@ -32,7 +32,7 @@
     "mira_library.py": "6ce574c7eee8e1f250a76238e2de2659082c01026bc13812804607b24ff44788",
     "passages.py": "841eb3b30ed194d67bd96bff2c45449fbdcd59d4201fa8b1a06ade72b3909898",
     "tests/test_checks.py": "59a189c6941d5293897095c24c7c2a52e214f91d4b69a1ea06761a2fe5671a7c",
-    "tests/test_reader.py": "b7b1d5d1c9eadc756796ea44135747049ad1719c166633e7f1922d834bf7ad7a"
+    "tests/test_reader.py": "374f5561bbf29f573952cfd63c8dcbbccb7d64b182205d75cbcc1461049d8ad8"
   },
   "format": "mira-library-public-v1",
   "sources": 270

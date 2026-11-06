@@ -84,3 +84,6 @@
 - `LIB-COLONIAL-AUTHORITY-078-BURKE` — Speech on Fox’s East India Bill
 - `LIB-COLONIAL-AUTHORITY-079-HUME` — Of Public Credit
 - `LIB-COLONIAL-AUTHORITY-080-MACHIAVELLI` — Discourses on Livy
+- `LIB-COLONIAL-AUTHORITY-082-JEFFERSON` — Thomas Jefferson — major public writings
+- `LIB-COLONIAL-AUTHORITY-083-MADISON` — James Madison — major public writings
+- `LIB-COLONIAL-AUTHORITY-084-HAMILTON` — Alexander Hamilton — major public writings

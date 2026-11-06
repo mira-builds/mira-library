@@ -21836,18 +21836,18 @@
         "United States",
         "sea power"
       ],
-      "coverage_notes": "Metadata-only Industrial Batch 001 record. No body downloaded, inspected, admitted, or represented as available. Coverage ceiling from design packet: principal-work.",
-      "coverage_status": "principal-work",
-      "date_end": 1851,
-      "date_label": "1851 principal-work lane; exact edition dates require body-level review",
-      "date_start": 1851,
+      "coverage_notes": "Major-work/public-writing collection with explicit remaining gaps; not complete surviving corpus. Current index: library/industrial/herman-melville-index.md.",
+      "coverage_status": "principal-works",
+      "date_end": 1924,
+      "date_label": "1846-1891 lifetime books and major 1924 posthumous editorial witnesses",
+      "date_start": 1846,
       "edition_era": "digital",
       "era_basis": "composition_period",
       "secondary_eras": [],
       "source_composition_era": "industrial",
       "source_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE",
       "source_type": "literary",
-      "status": "stub",
+      "status": "available",
       "subject_era": "industrial",
       "text_bodies": [
         {
@@ -21866,10 +21866,834 @@
           "text_sha256": "9a6844ac0703853720010787c7b6c70b0020f1ab1862dcd74452fa46474d1215",
           "translator": "",
           "work_title": "Moby Dick; Or, The Whale"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG13720",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #13720; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #13720; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG13720-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 583693,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG13720.txt",
+          "text_sha256": "fbd37d2b0f8cb1a9107bea95af33aaf9543f727f2877ad304c801ce3823d9699",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Mardi, and a voyage thither, Vol. 1 (of 2)"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG13721",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #13721; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #13721; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG13721-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 627940,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG13721.txt",
+          "text_sha256": "b388f8936531a2fd95ebd568af91771d8977015e5840ea8e3afa9897ad8b0722",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Mardi, and a voyage thither, Vol. 2 (of 2)"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG8118",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #8118; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #8118; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG8118-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 685528,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG8118.txt",
+          "text_sha256": "1a0a54bd4a608040a38ee3b7ff1573876eff63c07b4029354ca45bebf30ff8ad",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Redburn. His First Voyage"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG10712",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #10712; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #10712; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG10712-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 846092,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG10712.txt",
+          "text_sha256": "24dfaef218fcf07b15a1317ae8ac83eda59efec26451ceb0134e21e717817f9f",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "White Jacket; Or, The World on a Man-of-War"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG34970",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #34970; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #34970; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG34970-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 915150,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG34970.txt",
+          "text_sha256": "1b20206cc6d29fdfe442e1b734b892ea7b46e2039983ef91521e5151d1d0f580",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Pierre; or The Ambiguities"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG15422",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #15422; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #15422; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG15422-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 405194,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG15422.txt",
+          "text_sha256": "a59a291ff6bc0e0af47e4b7e4d53059a015c44e7bccc3a9b77148cdf44479e1a",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Israel Potter: His Fifty Years of Exile"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG21816",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #21816; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #21816; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG21816-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 560769,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG21816.txt",
+          "text_sha256": "a742f17f57b1a75a52d3ef4925dbaf987e7b72ed6644ee4d8cf8cf48b4a8c68d",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Confidence-Man: His Masquerade"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG15859",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #15859; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #15859; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG15859-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 488150,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG15859.txt",
+          "text_sha256": "5a6305412965d1fdd44e64a2e2c309ced3d2e5aac2a40c6f0c78c7430966fbc7",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Piazza Tales"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG53861",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #53861; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #53861; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG53861-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 364966,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG53861.txt",
+          "text_sha256": "dd86685844e99af60d2dc46d34b0f1c765d5cf76e0c9cce5da95736c0e4d1578",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Apple-Tree Table, and Other Sketches"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG12384",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #12384; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #12384; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG12384-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 205972,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG12384.txt",
+          "text_sha256": "03bd6a1c1acf2fc85f35f77d52d9c40076b9f003b97d104595de0d2b49f173bb",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Battle-Pieces and Aspects of the War"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG12841",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #12841; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #12841; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG12841-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 145050,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG12841.txt",
+          "text_sha256": "8bf3e6e8ba857f1c1d1d5fd5fc07d1371773f2cc88e31f21846d2698113e6196",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "John Marr and Other Poems"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG76513",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #76513; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "Raymond M. Weaver",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #76513; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Raymond M. Weaver",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG76513-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 713240,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG76513.txt",
+          "text_sha256": "6ac5824f011cab5a8b48ab442c31320b75b1d0e65d56b97d32d0d40bfe04c0e3",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Billy Budd"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG1900",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #1900; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "Arthur Griffin Stedman",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #1900; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Arthur Griffin Stedman",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG1900-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 679043,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG1900.txt",
+          "text_sha256": "767433d83cc721f811e27e8a95bac97a98ec1ca14e458e7888e4c60a3dc63faa",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Typee: A Romance of the South Seas"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG4045",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #4045; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #4045; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG4045-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 608118,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-PG4045.txt",
+          "text_sha256": "9401a0d4cce81560c2be6af196a08d7d8275537a550d339b9b8228a7065d8e40",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Omoo: Adventures in the South Seas"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-CLAREL-V1",
+          "coverage_status": "complete-work",
+          "edition_label": "Clarel, Constable Standard Edition (1924), volume 1; Internet Archive scan and uncorrected OCR",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Clarel, Constable Standard Edition (1924), volume 1; Internet Archive scan and uncorrected OCR",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "ocr-provider",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "ocr",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-CLAREL-V1-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "ocr",
+          "status": "available",
+          "text_bytes": 363793,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-CLAREL-V1.txt",
+          "text_sha256": "16c65a768822c9dde82100dbc1b74d53b8f0ddb41a0c09d96d798a3c739d9b9f",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Clarel, Constable Standard Edition (1924), volume 1"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-CLAREL-V2",
+          "coverage_status": "complete-work",
+          "edition_label": "Clarel, Constable Standard Edition (1924), volume 2; Internet Archive scan and uncorrected OCR",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Clarel, Constable Standard Edition (1924), volume 2; Internet Archive scan and uncorrected OCR",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "ocr-provider",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "ocr",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-CLAREL-V2-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "ocr",
+          "status": "available",
+          "text_bytes": 324608,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE-CLAREL-V2.txt",
+          "text_sha256": "d000386a0acf450988bb0a14d09bf15ac100078fc0661404c0a1f7b04af0e8d1",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Clarel, Constable Standard Edition (1924), volume 2"
         }
       ],
       "text_status": "available",
-      "title": "Moby-Dick"
+      "title": "Herman Melville — major works"
     },
     {
       "author": "Mark Twain",
@@ -30296,6 +31120,2680 @@
       ],
       "text_status": "available",
       "title": "Discourses on Livy"
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "civilization_tags": [
+        "United States",
+        "literature"
+      ],
+      "coverage_notes": "Major-work/public-writing collection with explicit remaining gaps; not complete surviving corpus. Current index: library/industrial/ralph-waldo-emerson-index.md.",
+      "coverage_status": "principal-works",
+      "date_end": 1893,
+      "date_label": "Major-work/public-writing composition and posthumous publication boundary.",
+      "date_start": 1836,
+      "edition_era": "digital",
+      "era_basis": "composition_period",
+      "secondary_eras": [],
+      "source_composition_era": "industrial",
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON",
+      "source_type": "literary",
+      "status": "available",
+      "subject_era": "industrial",
+      "text_bodies": [
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71683",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #71683; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #71683; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71683-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 470003,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71683.txt",
+          "text_sha256": "c00298038c4d800b0bcbb5378dab2dfbcc28a1468875876274b35095c083904a",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Miscellanies"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG2944",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #2944; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #2944; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG2944-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 432330,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG2944.txt",
+          "text_sha256": "d9c8ed96281f51eb731b1edade4a8822659e5aa76b89847c911b434d5911491d",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Essays — First Series"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG2945",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #2945; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #2945; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG2945-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 347300,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG2945.txt",
+          "text_sha256": "9adf7eadd1a4a1cf5b9cd2635c78ba7dc68e97ff6240bdf724d93a23c64b23eb",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Essays — Second Series"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG6312",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #6312; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #6312; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG6312-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 352397,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG6312.txt",
+          "text_sha256": "8823c1545c2ac09b078b13bf148094f41b6a79ef4d009152cacb2ef788ad0eae",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Representative Men: Seven Lectures"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG39862",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #39862; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #39862; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG39862-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 397099,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG39862.txt",
+          "text_sha256": "229afe70567a9a1cb32a16064f7259e5dff64a3764ab6ac7968a8fd35408ad54",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "English Traits"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG39827",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #39827; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #39827; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG39827-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 402213,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG39827.txt",
+          "text_sha256": "0cdee7986c31496229f179ac2dc0692c68408a0d8a259e8c5ef731963289c0a0",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Conduct of Life"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG69258",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #69258; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #69258; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG69258-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 392175,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG69258.txt",
+          "text_sha256": "d97ab32fcea405f1e5c4acdee1245dda91ff5021418c24c98866bf97ee8f5ebc",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Society and solitude: Twelve chapters"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71393",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #71393; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #71393; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71393-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 412992,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71393.txt",
+          "text_sha256": "7cdaca7ef3a687ce9bb160d64fa6ad12ac02f92ad3d051605c06d38eff0bf9e7",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Letters and social aims"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71812",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #71812; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "Edward Waldo Emerson",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #71812; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Edward Waldo Emerson",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71812-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 768956,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71812.txt",
+          "text_sha256": "beec8f345c6bb7cd52c8304a29bcfbd5f1e1b59f53745c0de01532298d26f853",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Miscellanies"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG75942",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #75942; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "James Elliot Cabot",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #75942; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "James Elliot Cabot",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG75942-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 583095,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG75942.txt",
+          "text_sha256": "bb0eb71fb573dc5b6fe6a6e29fde17a400e6cbc219a68db29721af56efe1b0e5",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Lectures and biographical sketches"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71558",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #71558; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "James Elliot Cabot; Edward Waldo Emerson (posthumous arrangement; source preface)",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #71558; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "James Elliot Cabot; Edward Waldo Emerson (posthumous arrangement; source preface)",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71558-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 365376,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG71558.txt",
+          "text_sha256": "2706b5efc661d3cf780d4ea15b2738f92820745bc200f1423bc69ab82be5d4b9",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Natural history of intellect, and other papers"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG12843",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #12843; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "James Elliot Cabot and Edward Waldo Emerson (prefatory/editorial layers in Household edition)",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #12843; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "James Elliot Cabot and Edward Waldo Emerson (prefatory/editorial layers in Household edition)",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG12843-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 356489,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG12843.txt",
+          "text_sha256": "fbcb29689c51d636a5da9c6add235777f99d5659faa389cc3bbce53c1482fa22",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Poems"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG15963",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #15963; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #15963; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG15963-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 115578,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG15963.txt",
+          "text_sha256": "3928c56815e41f94cc2e2de85a6d8562917d02f2c8e01af4fe8ce03edee314bc",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "May-Day, and Other Pieces"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG13105",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #13105; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "Ralph Waldo Emerson; James Freeman Clarke; William Henry Channing (collaborative memoir; includes Margaret Fuller’s writings)",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #13105; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Ralph Waldo Emerson; James Freeman Clarke; William Henry Channing (collaborative memoir; includes Margaret Fuller’s writings)",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG13105-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 589364,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG13105.txt",
+          "text_sha256": "be3b89751e6b7d1ead881b1101ff3511cd770b4c9c20d1c042259f5520f35064",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Memoirs of Margaret Fuller Ossoli, Volume I"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG13106",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #13106; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "Ralph Waldo Emerson; James Freeman Clarke; William Henry Channing (collaborative memoir; includes Margaret Fuller’s writings)",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #13106; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Ralph Waldo Emerson; James Freeman Clarke; William Henry Channing (collaborative memoir; includes Margaret Fuller’s writings)",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG13106-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 602693,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-102-EMERSON-PG13106.txt",
+          "text_sha256": "68beda39d1df3fdca764437150cc94ed07be66b90e14b1b6da090aa05be8a39d",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Memoirs of Margaret Fuller Ossoli, Volume II"
+        }
+      ],
+      "text_status": "available",
+      "title": "Ralph Waldo Emerson — major works"
+    },
+    {
+      "author": "Nathaniel Hawthorne",
+      "civilization_tags": [
+        "United States",
+        "literature"
+      ],
+      "coverage_notes": "Major-work/public-writing collection with explicit remaining gaps; not complete surviving corpus. Current index: library/industrial/nathaniel-hawthorne-index.md.",
+      "coverage_status": "principal-works",
+      "date_end": 1883,
+      "date_label": "Major-work/public-writing composition and posthumous publication boundary.",
+      "date_start": 1828,
+      "edition_era": "digital",
+      "era_basis": "composition_period",
+      "secondary_eras": [],
+      "source_composition_era": "industrial",
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE",
+      "source_type": "literary",
+      "status": "available",
+      "subject_era": "industrial",
+      "text_bodies": [
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7085",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #7085; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #7085; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7085-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 254732,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7085.txt",
+          "text_sha256": "340e081b309502d59c1d356f478388bb7a6198e526d0440a413715bdd492ad2e",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Fanshawe"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG13707",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #13707; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #13707; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG13707-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 868552,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG13707.txt",
+          "text_sha256": "9129a461218064c1d849f8ea0bbe38b07cb409568347fd6dd50027f385929abb",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Twice-told tales"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG512",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #512; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #512; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG512-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 931364,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG512.txt",
+          "text_sha256": "ed7f9677191441cf958a462be35e2a6c8dba195127a9121173c8051d541b56c7",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Mosses from an old manse"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG513",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #513; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #513; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG513-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 443863,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG513.txt",
+          "text_sha256": "203bcb26fb4cdb88532f9e387f03bc8b9a9eb59b391f7d29789100ea92fba9d4",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The snow-image, and other twice-told tales"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG25344",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #25344; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #25344; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG25344-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 517218,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG25344.txt",
+          "text_sha256": "f5c3e08ba84b38970970cba7a7e4836b8e9d4c30f6afe4c78b9b99ca84c754e3",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Scarlet Letter"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG77",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #77; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #77; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG77-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 638803,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG77.txt",
+          "text_sha256": "e3a915f209708763561e58be7efb614bcfd883e434c6a67394b962f3149bd09c",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The House of the Seven Gables"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2081",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #2081; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #2081; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2081-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 456054,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2081.txt",
+          "text_sha256": "8856af4acdf6bd341034b4f26041b71b810437a663d7e292b19d58aaf5cd1b26",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Blithedale Romance"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2181",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #2181; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #2181; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2181-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 383907,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2181.txt",
+          "text_sha256": "66c0db41b35ca7e8ade4a558310ebec78f93a361284b71f290adb1e02baba236",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Marble Faun; Or, The Romance of Monte Beni - Volume 1"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2182",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #2182; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #2182; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2182-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 471255,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG2182.txt",
+          "text_sha256": "9e3dae0872fa47f1220c5d32cdef3ca9dceea7fa339619bd96c738123a12d884",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Marble Faun; Or, The Romance of Monte Beni - Volume 2"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG15697",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #15697; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #15697; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG15697-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 459583,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG15697.txt",
+          "text_sha256": "9181b657d403b2e5fb2401bdc0e5fe108040bd3e3476486b33406edefe7e91cd",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "True Stories of History and Biography"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG32242",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #32242; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #32242; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG32242-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 317323,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG32242.txt",
+          "text_sha256": "3c3b8241d90260fc17507d9f7bd4a66ed6e0e9194750dedd1b81002ee6dd36f9",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "A Wonder Book for Girls & Boys"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG976",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #976; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #976; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG976-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 379559,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG976.txt",
+          "text_sha256": "b322ba2c9223b4d7e08e44bb4e4988b7332bb836afe649ed184ba0617eb5313c",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Tanglewood Tales"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG8091",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #8091; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #8091; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG8091-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 460111,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG8091.txt",
+          "text_sha256": "1de344ff43f79072d5d3706390f679eb0e6f76fbb5dcf37726a368a4c684b52d",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Sketches and Studies"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG8090",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #8090; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #8090; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG8090-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 694645,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG8090.txt",
+          "text_sha256": "4778cd23f231080c9f74a03caae4b30c9e484ff4622124caa110ab0e4a37d206",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Our Old Home: A Series of English Sketches"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7372",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #7372; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #7372; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7372-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 372850,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7372.txt",
+          "text_sha256": "da526bebaeecf99e3361afc6868fbe17901f871e33a3e91a8614d5f0acdc49b0",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "Septimius Felton, or, the Elixir of Life"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7119",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #7119; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "",
+          "editor_status": "unknown",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #7119; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "",
+                    "role": "unknown",
+                    "status": "unknown"
+                  }
+                ],
+                "kind": "unknown",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7119-01",
+                "revision_relevance": "textual-integrity",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "unknown"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "original-language",
+              "source_languages": [
+                "english"
+              ],
+              "status": "known"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "original-language",
+          "status": "available",
+          "text_bytes": 116305,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7119.txt",
+          "text_sha256": "c455dc94fa9ea68e683055a6cf2b62f9a82c7538625582025f8bae677b652f00",
+          "translator": "",
+          "translator_status": "not-applicable",
+          "work_title": "The Dolliver Romance"
+        },
+        {
+          "body_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7183",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #7183; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "Julian Hawthorne",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #7183; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Julian Hawthorne",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7183-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 557455,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE-PG7183.txt",
+          "text_sha256": "799b2635c04b696ee490db2502b9f7170ffa819f53ef46189abfd69df97f8dbb",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "Doctor Grimshawe's Secret — a Romance"
+        }
+      ],
+      "text_status": "available",
+      "title": "Nathaniel Hawthorne — major works"
+    },
+    {
+      "author": "Thomas Jefferson",
+      "civilization_tags": [
+        "United States",
+        "constitutional government"
+      ],
+      "coverage_notes": "Major-work/public-writing collection with explicit remaining gaps; not complete surviving corpus. Current index: library/colonial/thomas-jefferson-index.md.",
+      "coverage_status": "principal-works",
+      "date_end": 1826,
+      "date_label": "Major-work/public-writing composition and posthumous publication boundary.",
+      "date_start": 1774,
+      "edition_era": "digital",
+      "era_basis": "composition_period",
+      "secondary_eras": [
+        "industrial"
+      ],
+      "source_composition_era": "colonial",
+      "source_id": "LIB-COLONIAL-AUTHORITY-082-JEFFERSON",
+      "source_type": "primary",
+      "status": "available",
+      "subject_era": "colonial",
+      "text_bodies": [
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG45847",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #45847; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "H. A. Washington",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #45847; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "H. A. Washington",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG45847-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 1362497,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG45847.txt",
+          "text_sha256": "1d4979cae673fa4497d31088a8aa5fc113ab77ada332843463edbb4168c41074",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Writings of Thomas Jefferson, Vol. 1 (of 9)"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56035",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #56035; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "H. A. Washington",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #56035; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "H. A. Washington",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56035-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 1435845,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56035.txt",
+          "text_sha256": "b52406032c2e3790b19b07950f6dc3e757a10d2ff7f498a7b24793e2d9233ee8",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Writings of Thomas Jefferson, Vol. 7 (of 9)"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56313",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #56313; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "H. A. Washington",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #56313; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "H. A. Washington",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56313-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 1435795,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56313.txt",
+          "text_sha256": "6c255a17200cd78ffeac4aea08ab792e914c69446e4411bf1bbfbf4f68fd766b",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Writings of Thomas Jefferson, Vol. 8 (of 9)"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56578",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #56578; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "H. A. Washington",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #56578; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "H. A. Washington",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56578-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 1314499,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-082-JEFFERSON-PG56578.txt",
+          "text_sha256": "c938d3675edbd05f6063bb9c12a82362c369be02a4dd9d8156d2315624f7e3f3",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Writings of Thomas Jefferson, Vol. 9 (of 9)"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-082-JEFFERSON-OLL-V2",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; Ford Federal Edition 1904-05, volume 2",
+          "editor": "Paul Leicester Ford",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; Ford Federal Edition 1904-05, volume 2",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Paul Leicester Ford",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-082-JEFFERSON-OLL-V2-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 861591,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-082-JEFFERSON-OLL-V2.txt",
+          "text_sha256": "d573eb19d95236fd6c9bfd7637b88f60576f814e45aa15223ec80a621c406a88",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Works, vol. 2 (1771-1779)"
+        }
+      ],
+      "text_status": "available",
+      "title": "Thomas Jefferson — major public writings"
+    },
+    {
+      "author": "James Madison",
+      "civilization_tags": [
+        "United States",
+        "constitutional government"
+      ],
+      "coverage_notes": "Major-work/public-writing collection with explicit remaining gaps; not complete surviving corpus. Current index: library/colonial/james-madison-index.md.",
+      "coverage_status": "principal-works",
+      "date_end": 1836,
+      "date_label": "Major-work/public-writing composition and posthumous publication boundary.",
+      "date_start": 1785,
+      "edition_era": "digital",
+      "era_basis": "composition_period",
+      "secondary_eras": [
+        "industrial"
+      ],
+      "source_composition_era": "colonial",
+      "source_id": "LIB-COLONIAL-AUTHORITY-083-MADISON",
+      "source_type": "primary",
+      "status": "available",
+      "subject_era": "colonial",
+      "text_bodies": [
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-083-MADISON-PG40861",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #40861; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "Gaillard Hunt",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #40861; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Gaillard Hunt",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-083-MADISON-PG40861-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 829094,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-083-MADISON-PG40861.txt",
+          "text_sha256": "515b6a10a899e180bb9d394654f2498c89b0b4148968ee8eba052310b847a967",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Journal of the Debates in the Convention which Framed the Constitution of the United States, May-September 1787. Volume 1"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-083-MADISON-PG41095",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #41095; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "Gaillard Hunt",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #41095; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Gaillard Hunt",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-083-MADISON-PG41095-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 956823,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-083-MADISON-PG41095.txt",
+          "text_sha256": "fe5abc850df4e671cc847e50d855292ba315a1ce43e48feaac2a67f0a4a7a77f",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Journal of the Debates in the Convention which Framed the Constitution of the United States, May-September 1787. Volume 2"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-083-MADISON-PG10895",
+          "coverage_status": "complete-work",
+          "edition_label": "Project Gutenberg #10895; supplied edition and transcription, retrieved 2026-11-06",
+          "editor": "James D. Richardson",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Project Gutenberg #10895; supplied edition and transcription, retrieved 2026-11-06",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "James D. Richardson",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-083-MADISON-PG10895-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 355176,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-083-MADISON-PG10895.txt",
+          "text_sha256": "ddfe79b3f827de28212b7f61ddf48caa98e4bedbca7a5309999795a36a7f7872",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "A Compilation of the Messages and Papers of the Presidents. Volume 1, part 4: James Madison"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V2",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Writings, vol. 2 (1783-1787); Hunt 1900-10",
+          "editor": "Gaillard Hunt",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Writings, vol. 2 (1783-1787); Hunt 1900-10",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Gaillard Hunt",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V2-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 772479,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V2.txt",
+          "text_sha256": "4d984c81454e80b9ccbeaf3fa71404aca68aa5ecc427a2f16cf142f8fb054f74",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Writings, vol. 2 (1783-1787)"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V5",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Writings, vol. 5 (1787-1790); Hunt 1900-10",
+          "editor": "Gaillard Hunt",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Writings, vol. 5 (1787-1790); Hunt 1900-10",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Gaillard Hunt",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V5-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 911422,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V5.txt",
+          "text_sha256": "d1de6bffdda93528fc5d0a3df95a859ecdc1c3f978c1970a458e4a1fcbe60c7e",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Writings, vol. 5 (1787-1790)"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V6",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Writings, vol. 6 (1790-1802); Hunt 1900-10",
+          "editor": "Gaillard Hunt",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Writings, vol. 6 (1790-1802); Hunt 1900-10",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Gaillard Hunt",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V6-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 974648,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-083-MADISON-OLL-V6.txt",
+          "text_sha256": "85ddf8ca08a2f5265046f8445e31e4b228f7c5aa776abebb562d63f01c63ce2e",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Writings, vol. 6 (1790-1802)"
+        }
+      ],
+      "text_status": "available",
+      "title": "James Madison — major public writings"
+    },
+    {
+      "author": "Alexander Hamilton",
+      "civilization_tags": [
+        "United States",
+        "constitutional government"
+      ],
+      "coverage_notes": "Major-work/public-writing collection with explicit remaining gaps; not complete surviving corpus. Current index: library/colonial/alexander-hamilton-index.md.",
+      "coverage_status": "principal-works",
+      "date_end": 1800,
+      "date_label": "Major-work/public-writing composition and posthumous publication boundary.",
+      "date_start": 1774,
+      "edition_era": "digital",
+      "era_basis": "composition_period",
+      "secondary_eras": [],
+      "source_composition_era": "colonial",
+      "source_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON",
+      "source_type": "primary",
+      "status": "available",
+      "subject_era": "colonial",
+      "text_bodies": [
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V1",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 1; Lodge Federal Edition 1904",
+          "editor": "Henry Cabot Lodge",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 1; Lodge Federal Edition 1904",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Henry Cabot Lodge",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V1-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 665776,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V1.txt",
+          "text_sha256": "b5e8a2bf669e669e93b92dbf4f51e5e0f24ed3378a69c8bc95bd62a4ddfa5306",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Works of Alexander Hamilton, (Federal Edition), vol. 1"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V2",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 2; Lodge Federal Edition 1904",
+          "editor": "Henry Cabot Lodge",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 2; Lodge Federal Edition 1904",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Henry Cabot Lodge",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V2-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 742044,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V2.txt",
+          "text_sha256": "1760b12f010935c5cbb11a93932949e30c4ebfe45cb4c6def865494720bd2aa1",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Works of Alexander Hamilton, (Federal Edition), vol. 2"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V3",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 3; Lodge Federal Edition 1904",
+          "editor": "Henry Cabot Lodge",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 3; Lodge Federal Edition 1904",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Henry Cabot Lodge",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V3-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 788135,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V3.txt",
+          "text_sha256": "f968dbda827e65cbade520902118379f6c9260d22add412a1645c8f1cf50bf86",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Works of Alexander Hamilton, (Federal Edition), vol. 3"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V4",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 4; Lodge Federal Edition 1904",
+          "editor": "Henry Cabot Lodge",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 4; Lodge Federal Edition 1904",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Henry Cabot Lodge",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V4-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 767634,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V4.txt",
+          "text_sha256": "a13bc9172da38c9659f54443060444a853e29f1f7f8d7d2d559394f4bc2f18b8",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Works of Alexander Hamilton, (Federal Edition), vol. 4"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V5",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 5; Lodge Federal Edition 1904",
+          "editor": "Henry Cabot Lodge",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 5; Lodge Federal Edition 1904",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Henry Cabot Lodge",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V5-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 784771,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V5.txt",
+          "text_sha256": "2d5cb8ea157f02a60aa7ab6fe6463dec896b12d19c4ac41f129a5f7c430f3fbc",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Works of Alexander Hamilton, (Federal Edition), vol. 5"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V6",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 6; Lodge Federal Edition 1904",
+          "editor": "Henry Cabot Lodge",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 6; Lodge Federal Edition 1904",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Henry Cabot Lodge",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V6-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 777150,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V6.txt",
+          "text_sha256": "eea747f1623db9e2af0d121b4a6c5add6db580d361c202d47e832071d6f428cd",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Works of Alexander Hamilton, (Federal Edition), vol. 6"
+        },
+        {
+          "body_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V8",
+          "coverage_status": "complete-work",
+          "edition_label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 8; Lodge Federal Edition 1904",
+          "editor": "Henry Cabot Lodge",
+          "editor_status": "known",
+          "language": "english",
+          "license_notes": "Underlying historical English work/edition is public domain; retained provider apparatus is for private reading only; no redistribution/publication authorized.",
+          "license_status": "public-domain",
+          "mediation": {
+            "edition_identity": {
+              "label": "Online Library of Liberty; The Works of Alexander Hamilton, (Federal Edition), vol. 8; Lodge Federal Edition 1904",
+              "status": "known"
+            },
+            "primary_path": [
+              {
+                "agents": [
+                  {
+                    "name": "Henry Cabot Lodge",
+                    "role": "editor",
+                    "status": "known"
+                  }
+                ],
+                "kind": "editorial-framing",
+                "layer_id": "MED-LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V8-01",
+                "revision_relevance": "interpretive",
+                "scope": "Admitted text body",
+                "sequence": 1,
+                "status": "known"
+              }
+            ],
+            "schema_version": "mira-library-mediation-v1",
+            "text_relation": {
+              "body_language": "english",
+              "kind": "unknown",
+              "source_languages": [],
+              "status": "unknown"
+            },
+            "unresolved_questions": []
+          },
+          "mediation_type": "editorial-rendering",
+          "status": "available",
+          "text_bytes": 798444,
+          "text_encoding": "utf-8",
+          "text_location": "library-text://LIB-COLONIAL-AUTHORITY-084-HAMILTON-OLL-V8.txt",
+          "text_sha256": "3dbd1cf525fa0574176de5e2c37cb497161a728179de0cc4425d6cfa585b6239",
+          "translator": "",
+          "translator_status": "unknown",
+          "work_title": "The Works of Alexander Hamilton, (Federal Edition), vol. 8"
+        }
+      ],
+      "text_status": "available",
+      "title": "Alexander Hamilton — major public writings"
     }
   ]
 }

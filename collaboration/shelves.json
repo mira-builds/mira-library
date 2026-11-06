@@ -1,1336 +1,1360 @@
 {
   "schema_version": 1,
-  "baseline_public_commit": "1cfbff19d70db367a3d89ce8fd5a62576c4ca25d",
   "shelves": [
     {
+      "index_ref": "library/ancient/ashoka-index.md",
       "shelf_id": "ashoka-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-001-ASHOKA",
-      "index_ref": "library/ancient/ashoka-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-001-ASHOKA"
     },
     {
+      "index_ref": "library/ancient/kautilya-chanakya-index.md",
       "shelf_id": "kautilya-chanakya-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-002-KAUTILYA",
-      "index_ref": "library/ancient/kautilya-chanakya-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-002-KAUTILYA"
     },
     {
+      "index_ref": "library/ancient/herodotus-index.md",
       "shelf_id": "herodotus-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-003-HERODOTUS",
-      "index_ref": "library/ancient/herodotus-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-003-HERODOTUS"
     },
     {
+      "index_ref": "library/ancient/strabo-index.md",
       "shelf_id": "strabo-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-004-STRABO",
-      "index_ref": "library/ancient/strabo-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-004-STRABO"
     },
     {
+      "index_ref": "library/ancient/darius-i-index.md",
       "shelf_id": "darius-i-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-005-DARIUS-I",
-      "index_ref": "library/ancient/darius-i-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-005-DARIUS-I"
     },
     {
+      "index_ref": "library/ancient/julius-caesar-index.md",
       "shelf_id": "julius-caesar-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-006-JULIUS-CAESAR",
-      "index_ref": "library/ancient/julius-caesar-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-006-JULIUS-CAESAR"
     },
     {
+      "index_ref": "library/ancient/tacitus-index.md",
       "shelf_id": "tacitus-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-007-TACITUS",
-      "index_ref": "library/ancient/tacitus-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-007-TACITUS"
     },
     {
+      "index_ref": "library/ancient/confucius-kongzi-index.md",
       "shelf_id": "confucius-kongzi-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-008-CONFUCIUS-KONGZI",
-      "index_ref": "library/ancient/confucius-kongzi-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-008-CONFUCIUS-KONGZI"
     },
     {
+      "index_ref": "library/ancient/laozi-index.md",
       "shelf_id": "laozi-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-009-LAOZI",
-      "index_ref": "library/ancient/laozi-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-009-LAOZI"
     },
     {
+      "index_ref": "library/ancient/sunzi-index.md",
       "shelf_id": "sunzi-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-010-SUNZI",
-      "index_ref": "library/ancient/sunzi-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-010-SUNZI"
     },
     {
+      "index_ref": "library/ancient/vedic-seer-tradition-index.md",
       "shelf_id": "vedic-seer-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-011-VEDIC-SEER-TRADITION",
-      "index_ref": "library/ancient/vedic-seer-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-011-VEDIC-SEER-TRADITION"
     },
     {
+      "index_ref": "library/ancient/upanishadic-tradition-index.md",
       "shelf_id": "upanishadic-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-012-UPANISHADIC-TRADITION",
-      "index_ref": "library/ancient/upanishadic-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-012-UPANISHADIC-TRADITION"
     },
     {
+      "index_ref": "library/ancient/vyasa-mahabharata-tradition-index.md",
       "shelf_id": "vyasa-mahabharata-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-013-VYASA-MAHABHARATA-TRADITION",
-      "index_ref": "library/ancient/vyasa-mahabharata-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-013-VYASA-MAHABHARATA-TRADITION"
     },
     {
+      "index_ref": "library/ancient/valmiki-index.md",
       "shelf_id": "valmiki-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-014-VALMIKI",
-      "index_ref": "library/ancient/valmiki-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-014-VALMIKI"
     },
     {
+      "index_ref": "library/ancient/avestan-gathic-zoroastrian-tradition-index.md",
       "shelf_id": "avestan-gathic-zoroastrian-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-015-AVESTAN-GATHIC-TRADITION",
-      "index_ref": "library/ancient/avestan-gathic-zoroastrian-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-015-AVESTAN-GATHIC-TRADITION"
     },
     {
+      "index_ref": "library/ancient/cyrus-ii-achaemenid-imperial-chancery-index.md",
       "shelf_id": "cyrus-ii-achaemenid-imperial-chancery-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-016-CYRUS-II-ACHAEMENID-CHANCERY",
-      "index_ref": "library/ancient/cyrus-ii-achaemenid-imperial-chancery-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-016-CYRUS-II-ACHAEMENID-CHANCERY"
     },
     {
+      "index_ref": "library/ancient/mencius-mengzi-index.md",
       "shelf_id": "mencius-mengzi-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-017-MENCIUS-MENGZI",
-      "index_ref": "library/ancient/mencius-mengzi-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-017-MENCIUS-MENGZI"
     },
     {
+      "index_ref": "library/ancient/zhuangzi-index.md",
       "shelf_id": "zhuangzi-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-018-ZHUANGZI",
-      "index_ref": "library/ancient/zhuangzi-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-018-ZHUANGZI"
     },
     {
+      "index_ref": "library/ancient/han-feizi-index.md",
       "shelf_id": "han-feizi-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-019-HAN-FEIZI",
-      "index_ref": "library/ancient/han-feizi-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-019-HAN-FEIZI"
     },
     {
+      "index_ref": "library/ancient/sima-qian-index.md",
       "shelf_id": "sima-qian-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-020-SIMA-QIAN",
-      "index_ref": "library/ancient/sima-qian-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-020-SIMA-QIAN"
     },
     {
+      "index_ref": "library/ancient/ban-gu-index.md",
       "shelf_id": "ban-gu-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-021-BAN-GU",
-      "index_ref": "library/ancient/ban-gu-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-021-BAN-GU"
     },
     {
+      "index_ref": "library/ancient/fan-ye-index.md",
       "shelf_id": "fan-ye-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-022-FAN-YE",
-      "index_ref": "library/ancient/fan-ye-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-022-FAN-YE"
     },
     {
+      "index_ref": "library/ancient/chen-shou-index.md",
       "shelf_id": "chen-shou-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-023-CHEN-SHOU",
-      "index_ref": "library/ancient/chen-shou-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-023-CHEN-SHOU"
     },
     {
+      "index_ref": "library/ancient/yijing-tradition-index.md",
       "shelf_id": "yijing-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-024-YIJING-TRADITION",
-      "index_ref": "library/ancient/yijing-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-024-YIJING-TRADITION"
     },
     {
+      "index_ref": "library/ancient/shujing-tradition-index.md",
       "shelf_id": "shujing-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-025-SHUJING-TRADITION",
-      "index_ref": "library/ancient/shujing-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-025-SHUJING-TRADITION"
     },
     {
+      "index_ref": "library/ancient/shijing-tradition-index.md",
       "shelf_id": "shijing-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-026-SHIJING-TRADITION",
-      "index_ref": "library/ancient/shijing-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-026-SHIJING-TRADITION"
     },
     {
+      "index_ref": "library/ancient/thucydides-index.md",
       "shelf_id": "thucydides-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-027-THUCYDIDES",
-      "index_ref": "library/ancient/thucydides-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-027-THUCYDIDES"
     },
     {
+      "index_ref": "library/ancient/xenophon-index.md",
       "shelf_id": "xenophon-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-028-XENOPHON",
-      "index_ref": "library/ancient/xenophon-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-028-XENOPHON"
     },
     {
+      "index_ref": "library/ancient/polybius-index.md",
       "shelf_id": "polybius-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-029-POLYBIUS",
-      "index_ref": "library/ancient/polybius-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-029-POLYBIUS"
     },
     {
+      "index_ref": "library/ancient/diodorus-siculus-index.md",
       "shelf_id": "diodorus-siculus-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-030-DIODORUS-SICULUS",
-      "index_ref": "library/ancient/diodorus-siculus-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-030-DIODORUS-SICULUS"
     },
     {
+      "index_ref": "library/ancient/dionysius-of-halicarnassus-index.md",
       "shelf_id": "dionysius-of-halicarnassus-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-031-DIONYSIUS-OF-HALICARNASSUS",
-      "index_ref": "library/ancient/dionysius-of-halicarnassus-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-031-DIONYSIUS-OF-HALICARNASSUS"
     },
     {
+      "index_ref": "library/ancient/plutarch-index.md",
       "shelf_id": "plutarch-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-032-PLUTARCH",
-      "index_ref": "library/ancient/plutarch-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-032-PLUTARCH"
     },
     {
+      "index_ref": "library/ancient/arrian-index.md",
       "shelf_id": "arrian-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-033-ARRIAN",
-      "index_ref": "library/ancient/arrian-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-033-ARRIAN"
     },
     {
+      "index_ref": "library/ancient/cicero-index.md",
       "shelf_id": "cicero-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-034-CICERO",
-      "index_ref": "library/ancient/cicero-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-034-CICERO"
     },
     {
+      "index_ref": "library/ancient/livy-index.md",
       "shelf_id": "livy-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-035-LIVY",
-      "index_ref": "library/ancient/livy-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-035-LIVY"
     },
     {
+      "index_ref": "library/ancient/sallust-index.md",
       "shelf_id": "sallust-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-036-SALLUST",
-      "index_ref": "library/ancient/sallust-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-036-SALLUST"
     },
     {
+      "index_ref": "library/ancient/pliny-the-elder-index.md",
       "shelf_id": "pliny-the-elder-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-037-PLINY-THE-ELDER",
-      "index_ref": "library/ancient/pliny-the-elder-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-037-PLINY-THE-ELDER"
     },
     {
+      "index_ref": "library/ancient/suetonius-index.md",
       "shelf_id": "suetonius-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-038-SUETONIUS",
-      "index_ref": "library/ancient/suetonius-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-038-SUETONIUS"
     },
     {
+      "index_ref": "library/ancient/homer-index.md",
       "shelf_id": "homer-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-039-HOMER",
-      "index_ref": "library/ancient/homer-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-039-HOMER"
     },
     {
+      "index_ref": "library/ancient/plato-index.md",
       "shelf_id": "plato-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-040-PLATO",
-      "index_ref": "library/ancient/plato-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-040-PLATO"
     },
     {
+      "index_ref": "library/ancient/aristotle-index.md",
       "shelf_id": "aristotle-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-041-ARISTOTLE",
-      "index_ref": "library/ancient/aristotle-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-041-ARISTOTLE"
     },
     {
+      "index_ref": "library/ancient/sophocles-index.md",
       "shelf_id": "sophocles-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-042-SOPHOCLES",
-      "index_ref": "library/ancient/sophocles-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-042-SOPHOCLES"
     },
     {
+      "index_ref": "library/ancient/virgil-index.md",
       "shelf_id": "virgil-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-043-VIRGIL",
-      "index_ref": "library/ancient/virgil-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-043-VIRGIL"
     },
     {
+      "index_ref": "library/ancient/lucretius-index.md",
       "shelf_id": "lucretius-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-044-LUCRETIUS",
-      "index_ref": "library/ancient/lucretius-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-044-LUCRETIUS"
     },
     {
+      "index_ref": "library/ancient/ptolemy-index.md",
       "shelf_id": "ptolemy-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-045-PTOLEMY",
-      "index_ref": "library/ancient/ptolemy-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-045-PTOLEMY"
     },
     {
+      "index_ref": "library/ancient/ammianus-marcellinus-index.md",
       "shelf_id": "ammianus-marcellinus-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-046-AMMIANUS-MARCELLINUS",
-      "index_ref": "library/ancient/ammianus-marcellinus-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-046-AMMIANUS-MARCELLINUS"
     },
     {
+      "index_ref": "library/ancient/josephus-index.md",
       "shelf_id": "josephus-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-047-JOSEPHUS",
-      "index_ref": "library/ancient/josephus-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-047-JOSEPHUS"
     },
     {
+      "index_ref": "library/ancient/eusebius-of-caesarea-index.md",
       "shelf_id": "eusebius-of-caesarea-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-048-EUSEBIUS-OF-CAESAREA",
-      "index_ref": "library/ancient/eusebius-of-caesarea-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-048-EUSEBIUS-OF-CAESAREA"
     },
     {
+      "index_ref": "library/ancient/aurelius-victor-index.md",
       "shelf_id": "aurelius-victor-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-049-AURELIUS-VICTOR",
-      "index_ref": "library/ancient/aurelius-victor-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-049-AURELIUS-VICTOR"
     },
     {
+      "index_ref": "library/ancient/eutropius-index.md",
       "shelf_id": "eutropius-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-050-EUTROPIUS",
-      "index_ref": "library/ancient/eutropius-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-050-EUTROPIUS"
     },
     {
+      "index_ref": "library/ancient/biblical-textual-tradition-index.md",
       "shelf_id": "biblical-textual-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-051-BIBLICAL-TRADITION",
-      "index_ref": "library/ancient/biblical-textual-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-051-BIBLICAL-TRADITION"
     },
     {
+      "index_ref": "library/ancient/buddhist-textual-tradition-index.md",
       "shelf_id": "buddhist-textual-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-052-BUDDHIST-DHAMMAPADA-TRADITION",
-      "index_ref": "library/ancient/buddhist-textual-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-052-BUDDHIST-DHAMMAPADA-TRADITION"
     },
     {
+      "index_ref": "library/ancient/jain-textual-tradition-index.md",
       "shelf_id": "jain-textual-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-053-JAIN-ACARANGA-TRADITION",
-      "index_ref": "library/ancient/jain-textual-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-053-JAIN-ACARANGA-TRADITION"
     },
     {
+      "index_ref": "library/ancient/egyptian-mortuary-textual-tradition-index.md",
       "shelf_id": "egyptian-mortuary-textual-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-054-EGYPTIAN-MORTUARY-TRADITION",
-      "index_ref": "library/ancient/egyptian-mortuary-textual-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-054-EGYPTIAN-MORTUARY-TRADITION"
     },
     {
+      "index_ref": "library/ancient/mesopotamian-sacred-and-cosmological-textual-tradition-index.md",
       "shelf_id": "mesopotamian-sacred-and-cosmological-textual-tradition-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-055-MESOPOTAMIAN-COSMOLOGICAL-TRADITION",
-      "index_ref": "library/ancient/mesopotamian-sacred-and-cosmological-textual-tradition-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-055-MESOPOTAMIAN-COSMOLOGICAL-TRADITION"
     },
     {
+      "index_ref": "library/ancient/zarathustra-zoroaster-index.md",
       "shelf_id": "zarathustra-zoroaster-shelf",
-      "source_id": "LIB-ANCIENT-AUTHOR-056-ZARATHUSTRA-GATHAS",
-      "index_ref": "library/ancient/zarathustra-zoroaster-index.md"
+      "source_id": "LIB-ANCIENT-AUTHOR-056-ZARATHUSTRA-GATHAS"
     },
     {
+      "index_ref": "library/colonial/shakespeare-index.md",
       "shelf_id": "shakespeare-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-001-SHAKESPEARE",
-      "index_ref": "library/colonial/shakespeare-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-001-SHAKESPEARE"
     },
     {
+      "index_ref": "library/colonial/milton-index.md",
       "shelf_id": "milton-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-002-MILTON",
-      "index_ref": "library/colonial/milton-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-002-MILTON"
     },
     {
+      "index_ref": "library/colonial/bunyan-index.md",
       "shelf_id": "bunyan-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-003-BUNYAN",
-      "index_ref": "library/colonial/bunyan-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-003-BUNYAN"
     },
     {
+      "index_ref": "library/colonial/aphra-behn-index.md",
       "shelf_id": "aphra-behn-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-004-BEHN-OROONOKO",
-      "index_ref": "library/colonial/aphra-behn-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-004-BEHN-OROONOKO"
     },
     {
+      "index_ref": "library/colonial/defoe-index.md",
       "shelf_id": "defoe-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-005-DEFOE-ROBINSON-CRUSOE",
-      "index_ref": "library/colonial/defoe-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-005-DEFOE-ROBINSON-CRUSOE"
     },
     {
+      "index_ref": "library/colonial/swift-index.md",
       "shelf_id": "swift-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-006-SWIFT-GULLIVER",
-      "index_ref": "library/colonial/swift-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-006-SWIFT-GULLIVER"
     },
     {
+      "index_ref": "library/colonial/samuel-johnson-index.md",
       "shelf_id": "samuel-johnson-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-007-JOHNSON",
-      "index_ref": "library/colonial/samuel-johnson-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-007-JOHNSON"
     },
     {
+      "index_ref": "library/colonial/blake-index.md",
       "shelf_id": "blake-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-008-BLAKE",
-      "index_ref": "library/colonial/blake-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-008-BLAKE"
     },
     {
+      "index_ref": "library/colonial/paine-index.md",
       "shelf_id": "paine-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-009-PAINE",
-      "index_ref": "library/colonial/paine-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-009-PAINE"
     },
     {
+      "index_ref": "library/colonial/franklin-index.md",
       "shelf_id": "franklin-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-010-FRANKLIN",
-      "index_ref": "library/colonial/franklin-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-010-FRANKLIN"
     },
     {
+      "index_ref": "library/colonial/phillis-wheatley-index.md",
       "shelf_id": "phillis-wheatley-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-011-WHEATLEY",
-      "index_ref": "library/colonial/phillis-wheatley-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-011-WHEATLEY"
     },
     {
+      "index_ref": "library/colonial/equiano-index.md",
       "shelf_id": "equiano-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-012-EQUIANO",
-      "index_ref": "library/colonial/equiano-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-012-EQUIANO"
     },
     {
+      "index_ref": "library/colonial/cugoano-index.md",
       "shelf_id": "cugoano-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-013-CUGOANO",
-      "index_ref": "library/colonial/cugoano-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-013-CUGOANO"
     },
     {
+      "index_ref": "library/colonial/cervantes-index.md",
       "shelf_id": "cervantes-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-014-CERVANTES-DON-QUIXOTE",
-      "index_ref": "library/colonial/cervantes-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-014-CERVANTES-DON-QUIXOTE"
     },
     {
+      "index_ref": "library/colonial/camoes-index.md",
       "shelf_id": "camoes-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-015-CAMOES-LUSIADS",
-      "index_ref": "library/colonial/camoes-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-015-CAMOES-LUSIADS"
     },
     {
+      "index_ref": "library/colonial/sor-juana-ines-de-la-cruz-index.md",
       "shelf_id": "sor-juana-ines-de-la-cruz-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-016-SOR-JUANA",
-      "index_ref": "library/colonial/sor-juana-ines-de-la-cruz-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-016-SOR-JUANA"
     },
     {
+      "index_ref": "library/colonial/inca-garcilaso-de-la-vega-index.md",
       "shelf_id": "inca-garcilaso-de-la-vega-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-017-INCA-GARCILASO",
-      "index_ref": "library/colonial/inca-garcilaso-de-la-vega-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-017-INCA-GARCILASO"
     },
     {
+      "index_ref": "library/colonial/calderon-index.md",
       "shelf_id": "calderon-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-018-CALDERON",
-      "index_ref": "library/colonial/calderon-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-018-CALDERON"
     },
     {
+      "index_ref": "library/colonial/montaigne-index.md",
       "shelf_id": "montaigne-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-019-MONTAIGNE-ESSAIS",
-      "index_ref": "library/colonial/montaigne-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-019-MONTAIGNE-ESSAIS"
     },
     {
+      "index_ref": "library/colonial/moliere-index.md",
       "shelf_id": "moliere-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-020-MOLIERE",
-      "index_ref": "library/colonial/moliere-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-020-MOLIERE"
     },
     {
+      "index_ref": "library/colonial/racine-index.md",
       "shelf_id": "racine-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-021-RACINE",
-      "index_ref": "library/colonial/racine-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-021-RACINE"
     },
     {
+      "index_ref": "library/colonial/la-fontaine-index.md",
       "shelf_id": "la-fontaine-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-022-LA-FONTAINE",
-      "index_ref": "library/colonial/la-fontaine-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-022-LA-FONTAINE"
     },
     {
+      "index_ref": "library/colonial/voltaire-index.md",
       "shelf_id": "voltaire-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-023-VOLTAIRE",
-      "index_ref": "library/colonial/voltaire-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-023-VOLTAIRE"
     },
     {
+      "index_ref": "library/colonial/rousseau-index.md",
       "shelf_id": "rousseau-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-024-ROUSSEAU",
-      "index_ref": "library/colonial/rousseau-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-024-ROUSSEAU"
     },
     {
+      "index_ref": "library/colonial/goethe-index.md",
       "shelf_id": "goethe-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-025-GOETHE",
-      "index_ref": "library/colonial/goethe-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-025-GOETHE"
     },
     {
+      "index_ref": "library/colonial/schiller-index.md",
       "shelf_id": "schiller-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-026-SCHILLER",
-      "index_ref": "library/colonial/schiller-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-026-SCHILLER"
     },
     {
+      "index_ref": "library/colonial/basho-index.md",
       "shelf_id": "basho-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-027-BASHO",
-      "index_ref": "library/colonial/basho-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-027-BASHO"
     },
     {
+      "index_ref": "library/colonial/ihara-saikaku-index.md",
       "shelf_id": "ihara-saikaku-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-028-SAIKAKU",
-      "index_ref": "library/colonial/ihara-saikaku-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-028-SAIKAKU"
     },
     {
+      "index_ref": "library/colonial/chikamatsu-monzaemon-index.md",
       "shelf_id": "chikamatsu-monzaemon-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-029-CHIKAMATSU",
-      "index_ref": "library/colonial/chikamatsu-monzaemon-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-029-CHIKAMATSU"
     },
     {
+      "index_ref": "library/colonial/ueda-akinari-index.md",
       "shelf_id": "ueda-akinari-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-030-UEDA-AKINARI",
-      "index_ref": "library/colonial/ueda-akinari-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-030-UEDA-AKINARI"
     },
     {
+      "index_ref": "library/colonial/takuan-soho-index.md",
       "shelf_id": "takuan-soho-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-031-TAKUAN-SOHO",
-      "index_ref": "library/colonial/takuan-soho-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-031-TAKUAN-SOHO"
     },
     {
+      "index_ref": "library/colonial/cao-xueqin-index.md",
       "shelf_id": "cao-xueqin-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-032-CAO-XUEQIN",
-      "index_ref": "library/colonial/cao-xueqin-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-032-CAO-XUEQIN"
     },
     {
+      "index_ref": "library/colonial/pu-songling-index.md",
       "shelf_id": "pu-songling-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-033-PU-SONGLING",
-      "index_ref": "library/colonial/pu-songling-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-033-PU-SONGLING"
     },
     {
+      "index_ref": "library/colonial/baburnama-babur-index.md",
       "shelf_id": "baburnama-babur-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-034-BABURNAMA",
-      "index_ref": "library/colonial/baburnama-babur-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-034-BABURNAMA"
     },
     {
+      "index_ref": "library/colonial/mir-taqi-mir-index.md",
       "shelf_id": "mir-taqi-mir-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-035-MIR-TAQI-MIR",
-      "index_ref": "library/colonial/mir-taqi-mir-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-035-MIR-TAQI-MIR"
     },
     {
+      "index_ref": "library/colonial/haitian-revolutionary-declarations-proclamations-index.md",
       "shelf_id": "haitian-revolutionary-declarations-proclamations-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-036-HAITIAN-REVOLUTIONARY-DECLARATIONS",
-      "index_ref": "library/colonial/haitian-revolutionary-declarations-proclamations-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-036-HAITIAN-REVOLUTIONARY-DECLARATIONS"
     },
     {
+      "index_ref": "library/colonial/locke-index.md",
       "shelf_id": "locke-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-037-LOCKE",
-      "index_ref": "library/colonial/locke-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-037-LOCKE"
     },
     {
+      "index_ref": "library/colonial/adam-smith-index.md",
       "shelf_id": "adam-smith-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-038-ADAM-SMITH",
-      "index_ref": "library/colonial/adam-smith-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-038-ADAM-SMITH"
     },
     {
+      "index_ref": "library/colonial/east-india-company-charter-document-tradition-index.md",
       "shelf_id": "east-india-company-charter-document-tradition-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-039-EIC-CHARTERS",
-      "index_ref": "library/colonial/east-india-company-charter-document-tradition-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-039-EIC-CHARTERS"
     },
     {
+      "index_ref": "library/colonial/robert-clive-plassey-documentary-tradition-index.md",
       "shelf_id": "robert-clive-plassey-documentary-tradition-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-040-CLIVE-PLASSEY",
-      "index_ref": "library/colonial/robert-clive-plassey-documentary-tradition-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-040-CLIVE-PLASSEY"
     },
     {
+      "index_ref": "library/colonial/bengal-permanent-settlement-regulation-revenue-materials-index.md",
       "shelf_id": "bengal-permanent-settlement-regulation-revenue-materials-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-041-BENGAL-REVENUE-SETTLEMENT",
-      "index_ref": "library/colonial/bengal-permanent-settlement-regulation-revenue-materials-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-041-BENGAL-REVENUE-SETTLEMENT"
     },
     {
+      "index_ref": "library/colonial/british-slavery-law-abolition-documents-index.md",
       "shelf_id": "british-slavery-law-abolition-documents-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-042-BRITISH-SLAVERY-LAW",
-      "index_ref": "library/colonial/british-slavery-law-abolition-documents-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-042-BRITISH-SLAVERY-LAW"
     },
     {
+      "index_ref": "library/colonial/wilberforce-abolition-speeches-index.md",
       "shelf_id": "wilberforce-abolition-speeches-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-043-WILBERFORCE",
-      "index_ref": "library/colonial/wilberforce-abolition-speeches-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-043-WILBERFORCE"
     },
     {
+      "index_ref": "library/colonial/declaration-of-independence-index.md",
       "shelf_id": "declaration-of-independence-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-044-DECLARATION-INDEPENDENCE",
-      "index_ref": "library/colonial/declaration-of-independence-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-044-DECLARATION-INDEPENDENCE"
     },
     {
+      "index_ref": "library/colonial/u-s-constitution-and-bill-of-rights-index.md",
       "shelf_id": "u-s-constitution-and-bill-of-rights-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-045-US-CONSTITUTION-BILL-RIGHTS",
-      "index_ref": "library/colonial/u-s-constitution-and-bill-of-rights-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-045-US-CONSTITUTION-BILL-RIGHTS"
     },
     {
+      "index_ref": "library/colonial/federalist-papers-index.md",
       "shelf_id": "federalist-papers-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-046-FEDERALIST-PAPERS",
-      "index_ref": "library/colonial/federalist-papers-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-046-FEDERALIST-PAPERS"
     },
     {
+      "index_ref": "library/colonial/treaty-of-paris-american-independence-diplomacy-index.md",
       "shelf_id": "treaty-of-paris-american-independence-diplomacy-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-047-TREATY-PARIS-AMERICAN-INDEPENDENCE",
-      "index_ref": "library/colonial/treaty-of-paris-american-independence-diplomacy-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-047-TREATY-PARIS-AMERICAN-INDEPENDENCE"
     },
     {
+      "index_ref": "library/colonial/american-indian-treaty-texts-index.md",
       "shelf_id": "american-indian-treaty-texts-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-048-AMERICAN-INDIAN-TREATIES",
-      "index_ref": "library/colonial/american-indian-treaty-texts-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-048-AMERICAN-INDIAN-TREATIES"
     },
     {
+      "index_ref": "library/colonial/great-britain-indian-department-papers-index.md",
       "shelf_id": "great-britain-indian-department-papers-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-049-GB-INDIAN-DEPARTMENT-PAPERS",
-      "index_ref": "library/colonial/great-britain-indian-department-papers-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-049-GB-INDIAN-DEPARTMENT-PAPERS"
     },
     {
+      "index_ref": "library/colonial/meherrin-petition-to-the-governor-index.md",
       "shelf_id": "meherrin-petition-to-the-governor-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-050-MEHERRIN-PETITION",
-      "index_ref": "library/colonial/meherrin-petition-to-the-governor-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-050-MEHERRIN-PETITION"
     },
     {
+      "index_ref": "library/colonial/las-casas-index.md",
       "shelf_id": "las-casas-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-051-LAS-CASAS",
-      "index_ref": "library/colonial/las-casas-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-051-LAS-CASAS"
     },
     {
+      "index_ref": "library/colonial/leyes-nuevas-new-laws-of-the-indies-index.md",
       "shelf_id": "leyes-nuevas-new-laws-of-the-indies-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-052-LEYES-NUEVAS",
-      "index_ref": "library/colonial/leyes-nuevas-new-laws-of-the-indies-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-052-LEYES-NUEVAS"
     },
     {
+      "index_ref": "library/colonial/portuguese-goa-estado-da-india-selected-administrative-documents-index.md",
       "shelf_id": "portuguese-goa-estado-da-india-selected-administrative-documents-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-053-PORTUGUESE-GOA-ESTADO-INDIA",
-      "index_ref": "library/colonial/portuguese-goa-estado-da-india-selected-administrative-documents-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-053-PORTUGUESE-GOA-ESTADO-INDIA"
     },
     {
+      "index_ref": "library/colonial/lettres-edifiantes-et-curieuses-jesuit-mission-letter-packet-index.md",
       "shelf_id": "lettres-edifiantes-et-curieuses-jesuit-mission-letter-packet-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-054-JESUIT-MISSION-LETTERS",
-      "index_ref": "library/colonial/lettres-edifiantes-et-curieuses-jesuit-mission-letter-packet-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-054-JESUIT-MISSION-LETTERS"
     },
     {
+      "index_ref": "library/colonial/matteo-ricci-index.md",
       "shelf_id": "matteo-ricci-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-055-MATTEO-RICCI",
-      "index_ref": "library/colonial/matteo-ricci-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-055-MATTEO-RICCI"
     },
     {
+      "index_ref": "library/colonial/du-halde-index.md",
       "shelf_id": "du-halde-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-056-DU-HALDE-CHINA",
-      "index_ref": "library/colonial/du-halde-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-056-DU-HALDE-CHINA"
     },
     {
+      "index_ref": "library/colonial/qing-imperial-edicts-index.md",
       "shelf_id": "qing-imperial-edicts-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-057-QING-IMPERIAL-EDICTS",
-      "index_ref": "library/colonial/qing-imperial-edicts-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-057-QING-IMPERIAL-EDICTS"
     },
     {
+      "index_ref": "library/colonial/kangxi-sacred-edict-sixteen-maxims-index.md",
       "shelf_id": "kangxi-sacred-edict-sixteen-maxims-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-058-KANGXI-EDICTS",
-      "index_ref": "library/colonial/kangxi-sacred-edict-sixteen-maxims-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-058-KANGXI-EDICTS"
     },
     {
+      "index_ref": "library/colonial/qianlong-macartney-diplomatic-packet-index.md",
       "shelf_id": "qianlong-macartney-diplomatic-packet-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-059-QIANLONG-MACARTNEY",
-      "index_ref": "library/colonial/qianlong-macartney-diplomatic-packet-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-059-QIANLONG-MACARTNEY"
     },
     {
+      "index_ref": "library/colonial/draft-history-of-qing-qing-history-tradition-index.md",
       "shelf_id": "draft-history-of-qing-qing-history-tradition-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-060-QINGSHIGAO",
-      "index_ref": "library/colonial/draft-history-of-qing-qing-history-tradition-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-060-QINGSHIGAO"
     },
     {
+      "index_ref": "library/colonial/tokugawa-selected-edicts-legal-tradition-index.md",
       "shelf_id": "tokugawa-selected-edicts-legal-tradition-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-061-TOKUGAWA-EDICTS",
-      "index_ref": "library/colonial/tokugawa-selected-edicts-legal-tradition-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-061-TOKUGAWA-EDICTS"
     },
     {
+      "index_ref": "library/colonial/tokugawa-ieyasu-publication-corpus-index.md",
       "shelf_id": "tokugawa-ieyasu-publication-corpus-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-062-TOKUGAWA-IEYASU-PUBLICATION",
-      "index_ref": "library/colonial/tokugawa-ieyasu-publication-corpus-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-062-TOKUGAWA-IEYASU-PUBLICATION"
     },
     {
+      "index_ref": "library/colonial/dutch-voc-charter-company-records-index.md",
       "shelf_id": "dutch-voc-charter-company-records-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-063-VOC-CHARTERS",
-      "index_ref": "library/colonial/dutch-voc-charter-company-records-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-063-VOC-CHARTERS"
     },
     {
+      "index_ref": "library/colonial/dutch-act-of-abjuration-index.md",
       "shelf_id": "dutch-act-of-abjuration-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-064-DUTCH-ACT-ABJURATION",
-      "index_ref": "library/colonial/dutch-act-of-abjuration-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-064-DUTCH-ACT-ABJURATION"
     },
     {
+      "index_ref": "library/colonial/grotius-index.md",
       "shelf_id": "grotius-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-065-GROTIUS-MARE-LIBERUM",
-      "index_ref": "library/colonial/grotius-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-065-GROTIUS-MARE-LIBERUM"
     },
     {
+      "index_ref": "library/colonial/luther-index.md",
       "shelf_id": "luther-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-066-LUTHER",
-      "index_ref": "library/colonial/luther-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-066-LUTHER"
     },
     {
+      "index_ref": "library/colonial/augsburg-confession-index.md",
       "shelf_id": "augsburg-confession-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-067-AUGSBURG-CONFESSION",
-      "index_ref": "library/colonial/augsburg-confession-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-067-AUGSBURG-CONFESSION"
     },
     {
+      "index_ref": "library/colonial/peace-of-westphalia-treaty-corpus-index.md",
       "shelf_id": "peace-of-westphalia-treaty-corpus-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-068-PEACE-WESTPHALIA",
-      "index_ref": "library/colonial/peace-of-westphalia-treaty-corpus-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-068-PEACE-WESTPHALIA"
     },
     {
+      "index_ref": "library/colonial/napoleonic-code-index.md",
       "shelf_id": "napoleonic-code-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-069-NAPOLEONIC-CODE",
-      "index_ref": "library/colonial/napoleonic-code-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-069-NAPOLEONIC-CODE"
     },
     {
+      "index_ref": "library/colonial/ottoman-kanun-legal-administrative-tradition-index.md",
       "shelf_id": "ottoman-kanun-legal-administrative-tradition-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-070-OTTOMAN-KANUN",
-      "index_ref": "library/colonial/ottoman-kanun-legal-administrative-tradition-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-070-OTTOMAN-KANUN"
     },
     {
+      "index_ref": "library/colonial/eskandar-beg-monshi-index.md",
       "shelf_id": "eskandar-beg-monshi-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-071-SAFAVID-COURT-CHRONICLE",
-      "index_ref": "library/colonial/eskandar-beg-monshi-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-071-SAFAVID-COURT-CHRONICLE"
     },
     {
+      "index_ref": "library/colonial/ain-i-akbari-mughal-imperial-administration-index.md",
       "shelf_id": "ain-i-akbari-mughal-imperial-administration-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-072-AIN-I-AKBARI",
-      "index_ref": "library/colonial/ain-i-akbari-mughal-imperial-administration-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-072-AIN-I-AKBARI"
     },
     {
+      "index_ref": "library/colonial/sobornoye-ulozhenie-muscovite-law-code-index.md",
       "shelf_id": "sobornoye-ulozhenie-muscovite-law-code-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-073-SOBORNOE-ULOZHENIE",
-      "index_ref": "library/colonial/sobornoye-ulozhenie-muscovite-law-code-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-073-SOBORNOE-ULOZHENIE"
     },
     {
+      "index_ref": "library/colonial/peter-the-great-table-of-ranks-index.md",
       "shelf_id": "peter-the-great-table-of-ranks-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-074-PETER-TABLE-RANKS",
-      "index_ref": "library/colonial/peter-the-great-table-of-ranks-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-074-PETER-TABLE-RANKS"
     },
     {
+      "index_ref": "library/colonial/catherine-ii-nakaz-index.md",
       "shelf_id": "catherine-ii-nakaz-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-075-CATHERINE-NAKAZ",
-      "index_ref": "library/colonial/catherine-ii-nakaz-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-075-CATHERINE-NAKAZ"
     },
     {
+      "index_ref": "library/colonial/russian-early-modern-literary-voices-index.md",
       "shelf_id": "russian-early-modern-literary-voices-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-076-RUSSIAN-LITERARY-ANTHOLOGY",
-      "index_ref": "library/colonial/russian-early-modern-literary-voices-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-076-RUSSIAN-LITERARY-ANTHOLOGY"
     },
     {
+      "index_ref": "library/colonial/russian-siberian-and-steppe-expansion-documents-index.md",
       "shelf_id": "russian-siberian-and-steppe-expansion-documents-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-077-RUSSIAN-SIBERIAN-EXPANSION",
-      "index_ref": "library/colonial/russian-siberian-and-steppe-expansion-documents-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-077-RUSSIAN-SIBERIAN-EXPANSION"
     },
     {
+      "index_ref": "library/colonial/edmund-burke-index.md",
       "shelf_id": "edmund-burke-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-078-BURKE",
-      "index_ref": "library/colonial/edmund-burke-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-078-BURKE"
     },
     {
+      "index_ref": "library/colonial/david-hume-index.md",
       "shelf_id": "david-hume-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-079-HUME",
-      "index_ref": "library/colonial/david-hume-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-079-HUME"
     },
     {
+      "index_ref": "library/colonial/niccolo-machiavelli-index.md",
       "shelf_id": "niccolo-machiavelli-shelf",
-      "source_id": "LIB-COLONIAL-AUTHORITY-080-MACHIAVELLI",
-      "index_ref": "library/colonial/niccolo-machiavelli-index.md"
+      "source_id": "LIB-COLONIAL-AUTHORITY-080-MACHIAVELLI"
     },
     {
+      "index_ref": "library/industrial/jane-austen-index.md",
       "shelf_id": "jane-austen-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-001-AUSTEN",
-      "index_ref": "library/industrial/jane-austen-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-001-AUSTEN"
     },
     {
+      "index_ref": "library/industrial/mary-shelley-index.md",
       "shelf_id": "mary-shelley-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-002-SHELLEY",
-      "index_ref": "library/industrial/mary-shelley-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-002-SHELLEY"
     },
     {
+      "index_ref": "library/industrial/pushkin-index.md",
       "shelf_id": "pushkin-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-003-PUSHKIN",
-      "index_ref": "library/industrial/pushkin-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-003-PUSHKIN"
     },
     {
+      "index_ref": "library/industrial/honore-de-balzac-index.md",
       "shelf_id": "honore-de-balzac-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-004-BALZAC",
-      "index_ref": "library/industrial/honore-de-balzac-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-004-BALZAC"
     },
     {
+      "index_ref": "library/industrial/victor-hugo-index.md",
       "shelf_id": "victor-hugo-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-005-HUGO",
-      "index_ref": "library/industrial/victor-hugo-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-005-HUGO"
     },
     {
+      "index_ref": "library/industrial/charles-dickens-index.md",
       "shelf_id": "charles-dickens-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-006-DICKENS",
-      "index_ref": "library/industrial/charles-dickens-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-006-DICKENS"
     },
     {
+      "index_ref": "library/industrial/charlotte-bronte-index.md",
       "shelf_id": "charlotte-bronte-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-007-CHARLOTTE-BRONTE",
-      "index_ref": "library/industrial/charlotte-bronte-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-007-CHARLOTTE-BRONTE"
     },
     {
+      "index_ref": "library/industrial/emily-bronte-index.md",
       "shelf_id": "emily-bronte-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-008-EMILY-BRONTE",
-      "index_ref": "library/industrial/emily-bronte-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-008-EMILY-BRONTE"
     },
     {
+      "index_ref": "library/industrial/george-eliot-index.md",
       "shelf_id": "george-eliot-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-009-ELIOT",
-      "index_ref": "library/industrial/george-eliot-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-009-ELIOT"
     },
     {
+      "index_ref": "library/industrial/gustave-flaubert-index.md",
       "shelf_id": "gustave-flaubert-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-010-FLAUBERT",
-      "index_ref": "library/industrial/gustave-flaubert-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-010-FLAUBERT"
     },
     {
+      "index_ref": "library/industrial/dostoevsky-index.md",
       "shelf_id": "dostoevsky-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-011-DOSTOEVSKY",
-      "index_ref": "library/industrial/dostoevsky-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-011-DOSTOEVSKY"
     },
     {
+      "index_ref": "library/industrial/tolstoy-index.md",
       "shelf_id": "tolstoy-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-012-TOLSTOY",
-      "index_ref": "library/industrial/tolstoy-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-012-TOLSTOY"
     },
     {
+      "index_ref": "library/industrial/henrik-ibsen-index.md",
       "shelf_id": "henrik-ibsen-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-013-IBSEN",
-      "index_ref": "library/industrial/henrik-ibsen-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-013-IBSEN"
     },
     {
+      "index_ref": "library/industrial/anton-chekhov-index.md",
       "shelf_id": "anton-chekhov-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-014-CHEKHOV",
-      "index_ref": "library/industrial/anton-chekhov-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-014-CHEKHOV"
     },
     {
+      "index_ref": "library/industrial/rabindranath-tagore-index.md",
       "shelf_id": "rabindranath-tagore-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-015-TAGORE",
-      "index_ref": "library/industrial/rabindranath-tagore-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-015-TAGORE"
     },
     {
+      "index_ref": "library/industrial/lu-xun-index.md",
       "shelf_id": "lu-xun-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-016-LU-XUN",
-      "index_ref": "library/industrial/lu-xun-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-016-LU-XUN"
     },
     {
+      "index_ref": "library/industrial/natsume-soseki-index.md",
       "shelf_id": "natsume-soseki-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-017-SOSEKI",
-      "index_ref": "library/industrial/natsume-soseki-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-017-SOSEKI"
     },
     {
+      "index_ref": "library/industrial/premchand-index.md",
       "shelf_id": "premchand-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-018-PREMCHAND",
-      "index_ref": "library/industrial/premchand-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-018-PREMCHAND"
     },
     {
+      "index_ref": "library/industrial/machado-de-assis-index.md",
       "shelf_id": "machado-de-assis-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-019-MACHADO-DE-ASSIS",
-      "index_ref": "library/industrial/machado-de-assis-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-019-MACHADO-DE-ASSIS"
     },
     {
+      "index_ref": "library/industrial/jose-rizal-index.md",
       "shelf_id": "jose-rizal-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-020-RIZAL",
-      "index_ref": "library/industrial/jose-rizal-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-020-RIZAL"
     },
     {
+      "index_ref": "library/industrial/walt-whitman-index.md",
       "shelf_id": "walt-whitman-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-021-WHITMAN",
-      "index_ref": "library/industrial/walt-whitman-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-021-WHITMAN"
     },
     {
+      "index_ref": "library/industrial/emily-dickinson-index.md",
       "shelf_id": "emily-dickinson-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-022-DICKINSON",
-      "index_ref": "library/industrial/emily-dickinson-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-022-DICKINSON"
     },
     {
+      "index_ref": "library/industrial/herman-melville-index.md",
       "shelf_id": "herman-melville-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE",
-      "index_ref": "library/industrial/herman-melville-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE"
     },
     {
+      "index_ref": "library/industrial/twain-index.md",
       "shelf_id": "twain-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-024-TWAIN",
-      "index_ref": "library/industrial/twain-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-024-TWAIN"
     },
     {
+      "index_ref": "library/industrial/w-e-b-du-bois-index.md",
       "shelf_id": "w-e-b-du-bois-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-025-DU-BOIS",
-      "index_ref": "library/industrial/w-e-b-du-bois-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-025-DU-BOIS"
     },
     {
+      "index_ref": "library/industrial/frederick-douglass-index.md",
       "shelf_id": "frederick-douglass-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-026-DOUGLASS",
-      "index_ref": "library/industrial/frederick-douglass-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-026-DOUGLASS"
     },
     {
+      "index_ref": "library/industrial/harriet-jacobs-index.md",
       "shelf_id": "harriet-jacobs-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-027-JACOBS",
-      "index_ref": "library/industrial/harriet-jacobs-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-027-JACOBS"
     },
     {
+      "index_ref": "library/industrial/sojourner-truth-textual-tradition-index.md",
       "shelf_id": "sojourner-truth-textual-tradition-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-028-SOJOURNER-TRUTH",
-      "index_ref": "library/industrial/sojourner-truth-textual-tradition-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-028-SOJOURNER-TRUTH"
     },
     {
+      "index_ref": "library/industrial/marx-engels-index.md",
       "shelf_id": "marx-engels-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-029-MARX",
-      "index_ref": "library/industrial/marx-engels-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-029-MARX"
     },
     {
+      "index_ref": "library/industrial/friedrich-engels-index.md",
       "shelf_id": "friedrich-engels-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-030-ENGELS",
-      "index_ref": "library/industrial/friedrich-engels-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-030-ENGELS"
     },
     {
+      "index_ref": "library/industrial/john-stuart-mill-index.md",
       "shelf_id": "john-stuart-mill-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-031-MILL",
-      "index_ref": "library/industrial/john-stuart-mill-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-031-MILL"
     },
     {
+      "index_ref": "library/industrial/alexis-de-tocqueville-index.md",
       "shelf_id": "alexis-de-tocqueville-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-032-TOCQUEVILLE",
-      "index_ref": "library/industrial/alexis-de-tocqueville-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-032-TOCQUEVILLE"
     },
     {
+      "index_ref": "library/industrial/max-weber-index.md",
       "shelf_id": "max-weber-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-033-WEBER",
-      "index_ref": "library/industrial/max-weber-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-033-WEBER"
     },
     {
+      "index_ref": "library/industrial/emile-durkheim-index.md",
       "shelf_id": "emile-durkheim-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-034-DURKHEIM",
-      "index_ref": "library/industrial/emile-durkheim-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-034-DURKHEIM"
     },
     {
+      "index_ref": "library/industrial/sigmund-freud-index.md",
       "shelf_id": "sigmund-freud-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-035-FREUD",
-      "index_ref": "library/industrial/sigmund-freud-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-035-FREUD"
     },
     {
+      "index_ref": "library/industrial/friedrich-nietzsche-index.md",
       "shelf_id": "friedrich-nietzsche-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-036-NIETZSCHE",
-      "index_ref": "library/industrial/friedrich-nietzsche-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-036-NIETZSCHE"
     },
     {
+      "index_ref": "library/industrial/charles-darwin-index.md",
       "shelf_id": "charles-darwin-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-038-DARWIN",
-      "index_ref": "library/industrial/charles-darwin-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-038-DARWIN"
     },
     {
+      "index_ref": "library/industrial/alfred-russel-wallace-index.md",
       "shelf_id": "alfred-russel-wallace-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-039-WALLACE",
-      "index_ref": "library/industrial/alfred-russel-wallace-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-039-WALLACE"
     },
     {
+      "index_ref": "library/industrial/michael-faraday-index.md",
       "shelf_id": "michael-faraday-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-040-FARADAY",
-      "index_ref": "library/industrial/michael-faraday-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-040-FARADAY"
     },
     {
+      "index_ref": "library/industrial/charles-babbage-index.md",
       "shelf_id": "charles-babbage-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-041-BABBAGE",
-      "index_ref": "library/industrial/charles-babbage-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-041-BABBAGE"
     },
     {
+      "index_ref": "library/industrial/florence-nightingale-index.md",
       "shelf_id": "florence-nightingale-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-042-NIGHTINGALE",
-      "index_ref": "library/industrial/florence-nightingale-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-042-NIGHTINGALE"
     },
     {
+      "index_ref": "library/industrial/henry-david-thoreau-index.md",
       "shelf_id": "henry-david-thoreau-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-043-THOREAU",
-      "index_ref": "library/industrial/henry-david-thoreau-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-043-THOREAU"
     },
     {
+      "index_ref": "library/industrial/john-ruskin-index.md",
       "shelf_id": "john-ruskin-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-044-RUSKIN",
-      "index_ref": "library/industrial/john-ruskin-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-044-RUSKIN"
     },
     {
+      "index_ref": "library/industrial/william-morris-index.md",
       "shelf_id": "william-morris-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-045-MORRIS",
-      "index_ref": "library/industrial/william-morris-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-045-MORRIS"
     },
     {
+      "index_ref": "library/industrial/mohandas-k-gandhi-index.md",
       "shelf_id": "mohandas-k-gandhi-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-046-GANDHI",
-      "index_ref": "library/industrial/mohandas-k-gandhi-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-046-GANDHI"
     },
     {
+      "index_ref": "library/industrial/b-r-ambedkar-index.md",
       "shelf_id": "b-r-ambedkar-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-048-AMBEDKAR",
-      "index_ref": "library/industrial/b-r-ambedkar-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-048-AMBEDKAR"
     },
     {
+      "index_ref": "library/industrial/sun-yat-sen-index.md",
       "shelf_id": "sun-yat-sen-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-049-SUN-YAT-SEN",
-      "index_ref": "library/industrial/sun-yat-sen-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-049-SUN-YAT-SEN"
     },
     {
+      "index_ref": "library/industrial/fukuzawa-yukichi-index.md",
       "shelf_id": "fukuzawa-yukichi-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-051-FUKUZAWA",
-      "index_ref": "library/industrial/fukuzawa-yukichi-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-051-FUKUZAWA"
     },
     {
+      "index_ref": "library/industrial/vladimir-lenin-index.md",
       "shelf_id": "vladimir-lenin-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-053-LENIN",
-      "index_ref": "library/industrial/vladimir-lenin-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-053-LENIN"
     },
     {
+      "index_ref": "library/industrial/rosa-luxemburg-index.md",
       "shelf_id": "rosa-luxemburg-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-054-LUXEMBURG",
-      "index_ref": "library/industrial/rosa-luxemburg-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-054-LUXEMBURG"
     },
     {
+      "index_ref": "library/industrial/winston-churchill-index.md",
       "shelf_id": "winston-churchill-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-057-CHURCHILL",
-      "index_ref": "library/industrial/winston-churchill-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-057-CHURCHILL"
     },
     {
+      "index_ref": "library/industrial/nelson-mandela-index.md",
       "shelf_id": "nelson-mandela-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-060-MANDELA",
-      "index_ref": "library/industrial/nelson-mandela-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-060-MANDELA"
     },
     {
+      "index_ref": "library/industrial/emile-zola-index.md",
       "shelf_id": "emile-zola-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-061-ZOLA",
-      "index_ref": "library/industrial/emile-zola-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-061-ZOLA"
     },
     {
+      "index_ref": "library/industrial/thomas-hardy-index.md",
       "shelf_id": "thomas-hardy-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-062-HARDY",
-      "index_ref": "library/industrial/thomas-hardy-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-062-HARDY"
     },
     {
+      "index_ref": "library/industrial/oscar-wilde-index.md",
       "shelf_id": "oscar-wilde-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-063-WILDE",
-      "index_ref": "library/industrial/oscar-wilde-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-063-WILDE"
     },
     {
+      "index_ref": "library/industrial/joseph-conrad-index.md",
       "shelf_id": "joseph-conrad-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-064-CONRAD",
-      "index_ref": "library/industrial/joseph-conrad-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-064-CONRAD"
     },
     {
+      "index_ref": "library/industrial/jose-marti-index.md",
       "shelf_id": "jose-marti-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-076-MARTI",
-      "index_ref": "library/industrial/jose-marti-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-076-MARTI"
     },
     {
+      "index_ref": "library/industrial/rachel-carson-index.md",
       "shelf_id": "rachel-carson-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-078-CARSON",
-      "index_ref": "library/industrial/rachel-carson-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-078-CARSON"
     },
     {
+      "index_ref": "library/industrial/albert-einstein-index.md",
       "shelf_id": "albert-einstein-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-079-EINSTEIN",
-      "index_ref": "library/industrial/albert-einstein-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-079-EINSTEIN"
     },
     {
+      "index_ref": "library/industrial/universal-declaration-of-human-rights-drafting-tradition-index.md",
       "shelf_id": "universal-declaration-of-human-rights-drafting-tradition-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-080-UDHR-DRAFTING",
-      "index_ref": "library/industrial/universal-declaration-of-human-rights-drafting-tradition-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-080-UDHR-DRAFTING"
     },
     {
+      "index_ref": "library/industrial/olive-schreiner-index.md",
       "shelf_id": "olive-schreiner-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-081-SCHREINER",
-      "index_ref": "library/industrial/olive-schreiner-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-081-SCHREINER"
     },
     {
+      "index_ref": "library/industrial/elizabeth-cady-stanton-index.md",
       "shelf_id": "elizabeth-cady-stanton-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-082-STANTON",
-      "index_ref": "library/industrial/elizabeth-cady-stanton-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-082-STANTON"
     },
     {
+      "index_ref": "library/industrial/ida-b-wells-index.md",
       "shelf_id": "ida-b-wells-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-083-WELLS",
-      "index_ref": "library/industrial/ida-b-wells-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-083-WELLS"
     },
     {
+      "index_ref": "library/industrial/zitkala-sa-index.md",
       "shelf_id": "zitkala-sa-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-084-ZITKALA-SA",
-      "index_ref": "library/industrial/zitkala-sa-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-084-ZITKALA-SA"
     },
     {
+      "index_ref": "library/industrial/qiu-jin-index.md",
       "shelf_id": "qiu-jin-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-091-QIU-JIN",
-      "index_ref": "library/industrial/qiu-jin-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-091-QIU-JIN"
     },
     {
+      "index_ref": "library/industrial/kang-youwei-and-liang-qichao-reform-textual-tradition-index.md",
       "shelf_id": "kang-youwei-and-liang-qichao-reform-textual-tradition-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-092-KANG-LIANG",
-      "index_ref": "library/industrial/kang-youwei-and-liang-qichao-reform-textual-tradition-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-092-KANG-LIANG"
     },
     {
+      "index_ref": "library/industrial/booker-t-washington-index.md",
       "shelf_id": "booker-t-washington-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-093-WASHINGTON",
-      "index_ref": "library/industrial/booker-t-washington-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-093-WASHINGTON"
     },
     {
+      "index_ref": "library/industrial/united-nations-charter-san-francisco-conference-tradition-index.md",
       "shelf_id": "united-nations-charter-san-francisco-conference-tradition-shelf",
-      "source_id": "LIB-INDUSTRIAL-AUTHORITY-096-UNITED-NATIONS-CHARTER",
-      "index_ref": "library/industrial/united-nations-charter-san-francisco-conference-tradition-index.md"
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-096-UNITED-NATIONS-CHARTER"
     },
     {
+      "index_ref": "library/medieval/justinian-i-tribonian-and-the-imperial-legal-commission-index.md",
       "shelf_id": "justinian-i-tribonian-and-the-imperial-legal-commission-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-001-JUSTINIANIC-LEGAL-TRADITION",
-      "index_ref": "library/medieval/justinian-i-tribonian-and-the-imperial-legal-commission-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-001-JUSTINIANIC-LEGAL-TRADITION"
     },
     {
+      "index_ref": "library/medieval/procopius-of-caesarea-index.md",
       "shelf_id": "procopius-of-caesarea-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-002-PROCOPIUS",
-      "index_ref": "library/medieval/procopius-of-caesarea-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-002-PROCOPIUS"
     },
     {
+      "index_ref": "library/medieval/anna-komnene-index.md",
       "shelf_id": "anna-komnene-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-003-ANNA-KOMNENE",
-      "index_ref": "library/medieval/anna-komnene-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-003-ANNA-KOMNENE"
     },
     {
+      "index_ref": "library/medieval/constantine-vii-porphyrogenitus-index.md",
       "shelf_id": "constantine-vii-porphyrogenitus-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-004-CONSTANTINE-VII",
-      "index_ref": "library/medieval/constantine-vii-porphyrogenitus-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-004-CONSTANTINE-VII"
     },
     {
+      "index_ref": "library/medieval/michael-psellos-index.md",
       "shelf_id": "michael-psellos-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-005-MICHAEL-PSELLOS",
-      "index_ref": "library/medieval/michael-psellos-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-005-MICHAEL-PSELLOS"
     },
     {
+      "index_ref": "library/medieval/michael-the-syrian-index.md",
       "shelf_id": "michael-the-syrian-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-006-MICHAEL-THE-SYRIAN",
-      "index_ref": "library/medieval/michael-the-syrian-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-006-MICHAEL-THE-SYRIAN"
     },
     {
+      "index_ref": "library/medieval/kebra-nagast-textual-tradition-index.md",
       "shelf_id": "kebra-nagast-textual-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-007-KEBRA-NAGAST-TRADITION",
-      "index_ref": "library/medieval/kebra-nagast-textual-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-007-KEBRA-NAGAST-TRADITION"
     },
     {
+      "index_ref": "library/medieval/benedictine-rule-tradition-index.md",
       "shelf_id": "benedictine-rule-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-011-RULE-SAINT-BENEDICT",
-      "index_ref": "library/medieval/benedictine-rule-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-011-RULE-SAINT-BENEDICT"
     },
     {
+      "index_ref": "library/medieval/gregory-of-tours-index.md",
       "shelf_id": "gregory-of-tours-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-012-GREGORY-TOURS",
-      "index_ref": "library/medieval/gregory-of-tours-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-012-GREGORY-TOURS"
     },
     {
+      "index_ref": "library/medieval/bede-the-venerable-index.md",
       "shelf_id": "bede-the-venerable-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-013-BEDE",
-      "index_ref": "library/medieval/bede-the-venerable-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-013-BEDE"
     },
     {
+      "index_ref": "library/medieval/einhard-index.md",
       "shelf_id": "einhard-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-014-EINHARD",
-      "index_ref": "library/medieval/einhard-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-014-EINHARD"
     },
     {
+      "index_ref": "library/medieval/domesday-book-administrative-tradition-index.md",
       "shelf_id": "domesday-book-administrative-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-015-DOMESDAY-BOOK-TRADITION",
-      "index_ref": "library/medieval/domesday-book-administrative-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-015-DOMESDAY-BOOK-TRADITION"
     },
     {
+      "index_ref": "library/medieval/magna-carta-charter-tradition-index.md",
       "shelf_id": "magna-carta-charter-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-016-MAGNA-CARTA-TRADITION",
-      "index_ref": "library/medieval/magna-carta-charter-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-016-MAGNA-CARTA-TRADITION"
     },
     {
+      "index_ref": "library/medieval/thomas-aquinas-index.md",
       "shelf_id": "thomas-aquinas-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-017-THOMAS-AQUINAS",
-      "index_ref": "library/medieval/thomas-aquinas-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-017-THOMAS-AQUINAS"
     },
     {
+      "index_ref": "library/medieval/dante-alighieri-index.md",
       "shelf_id": "dante-alighieri-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-018-DANTE-ALIGHIERI",
-      "index_ref": "library/medieval/dante-alighieri-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-018-DANTE-ALIGHIERI"
     },
     {
+      "index_ref": "library/medieval/moses-maimonides-index.md",
       "shelf_id": "moses-maimonides-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-019-MAIMONIDES",
-      "index_ref": "library/medieval/moses-maimonides-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-019-MAIMONIDES"
     },
     {
+      "index_ref": "library/medieval/judah-halevi-index.md",
       "shelf_id": "judah-halevi-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-020-JUDAH-HALEVI",
-      "index_ref": "library/medieval/judah-halevi-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-020-JUDAH-HALEVI"
     },
     {
+      "index_ref": "library/medieval/qur-anic-textual-tradition-index.md",
       "shelf_id": "qur-anic-textual-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-024-QURANIC-TEXTUAL-TRADITION",
-      "index_ref": "library/medieval/qur-anic-textual-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-024-QURANIC-TEXTUAL-TRADITION"
     },
     {
+      "index_ref": "library/medieval/muhammad-ibn-jarir-al-tabari-index.md",
       "shelf_id": "muhammad-ibn-jarir-al-tabari-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-025-AL-TABARI",
-      "index_ref": "library/medieval/muhammad-ibn-jarir-al-tabari-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-025-AL-TABARI"
     },
     {
+      "index_ref": "library/medieval/al-mas-udi-index.md",
       "shelf_id": "al-mas-udi-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-026-AL-MASUDI",
-      "index_ref": "library/medieval/al-mas-udi-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-026-AL-MASUDI"
     },
     {
+      "index_ref": "library/medieval/ibn-hazm-index.md",
       "shelf_id": "ibn-hazm-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-027-IBN-HAZM",
-      "index_ref": "library/medieval/ibn-hazm-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-027-IBN-HAZM"
     },
     {
+      "index_ref": "library/medieval/abu-ubayd-al-bakri-index.md",
       "shelf_id": "abu-ubayd-al-bakri-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-028-AL-BAKRI",
-      "index_ref": "library/medieval/abu-ubayd-al-bakri-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-028-AL-BAKRI"
     },
     {
+      "index_ref": "library/medieval/muhammad-al-idrisi-index.md",
       "shelf_id": "muhammad-al-idrisi-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-029-AL-IDRISI",
-      "index_ref": "library/medieval/muhammad-al-idrisi-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-029-AL-IDRISI"
     },
     {
+      "index_ref": "library/medieval/ibn-jubayr-index.md",
       "shelf_id": "ibn-jubayr-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-030-IBN-JUBAYR",
-      "index_ref": "library/medieval/ibn-jubayr-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-030-IBN-JUBAYR"
     },
     {
+      "index_ref": "library/medieval/ibn-battuta-index.md",
       "shelf_id": "ibn-battuta-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-031-IBN-BATTUTA",
-      "index_ref": "library/medieval/ibn-battuta-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-031-IBN-BATTUTA"
     },
     {
+      "index_ref": "library/medieval/izz-al-din-ibn-al-athir-index.md",
       "shelf_id": "izz-al-din-ibn-al-athir-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-032-IBN-AL-ATHIR",
-      "index_ref": "library/medieval/izz-al-din-ibn-al-athir-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-032-IBN-AL-ATHIR"
     },
     {
+      "index_ref": "library/medieval/abd-al-rahman-ibn-khaldun-index.md",
       "shelf_id": "abd-al-rahman-ibn-khaldun-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-033-IBN-KHALDUN",
-      "index_ref": "library/medieval/abd-al-rahman-ibn-khaldun-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-033-IBN-KHALDUN"
     },
     {
+      "index_ref": "library/medieval/nizam-al-mulk-textual-tradition-index.md",
       "shelf_id": "nizam-al-mulk-textual-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-037-NIZAM-AL-MULK",
-      "index_ref": "library/medieval/nizam-al-mulk-textual-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-037-NIZAM-AL-MULK"
     },
     {
+      "index_ref": "library/medieval/abu-rayhan-al-biruni-index.md",
       "shelf_id": "abu-rayhan-al-biruni-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-038-AL-BIRUNI",
-      "index_ref": "library/medieval/abu-rayhan-al-biruni-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-038-AL-BIRUNI"
     },
     {
+      "index_ref": "library/medieval/ferdowsi-index.md",
       "shelf_id": "ferdowsi-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-039-FERDOWSI",
-      "index_ref": "library/medieval/ferdowsi-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-039-FERDOWSI"
     },
     {
+      "index_ref": "library/medieval/yusuf-khass-hajib-index.md",
       "shelf_id": "yusuf-khass-hajib-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-040-YUSUF-KHASS-HAJIB",
-      "index_ref": "library/medieval/yusuf-khass-hajib-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-040-YUSUF-KHASS-HAJIB"
     },
     {
+      "index_ref": "library/medieval/mahmud-al-kashgari-index.md",
       "shelf_id": "mahmud-al-kashgari-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-041-MAHMUD-AL-KASHGARI",
-      "index_ref": "library/medieval/mahmud-al-kashgari-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-041-MAHMUD-AL-KASHGARI"
     },
     {
+      "index_ref": "library/medieval/nasir-khusraw-index.md",
       "shelf_id": "nasir-khusraw-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-042-NASIR-KHUSRAW",
-      "index_ref": "library/medieval/nasir-khusraw-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-042-NASIR-KHUSRAW"
     },
     {
+      "index_ref": "library/medieval/anonymous-mongol-court-textual-tradition-index.md",
       "shelf_id": "anonymous-mongol-court-textual-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-043-SECRET-HISTORY-MONGOLS",
-      "index_ref": "library/medieval/anonymous-mongol-court-textual-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-043-SECRET-HISTORY-MONGOLS"
     },
     {
+      "index_ref": "library/medieval/rashid-al-din-hamadani-and-ilkhanid-compilation-atelier-index.md",
       "shelf_id": "rashid-al-din-hamadani-and-ilkhanid-compilation-atelier-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-044-RASHID-AL-DIN",
-      "index_ref": "library/medieval/rashid-al-din-hamadani-and-ilkhanid-compilation-atelier-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-044-RASHID-AL-DIN"
     },
     {
+      "index_ref": "library/medieval/kalhana-index.md",
       "shelf_id": "kalhana-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-046-KALHANA",
-      "index_ref": "library/medieval/kalhana-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-046-KALHANA"
     },
     {
+      "index_ref": "library/medieval/someshvara-iii-index.md",
       "shelf_id": "someshvara-iii-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-047-SOMESHVARA-III",
-      "index_ref": "library/medieval/someshvara-iii-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-047-SOMESHVARA-III"
     },
     {
+      "index_ref": "library/medieval/bhaskara-ii-index.md",
       "shelf_id": "bhaskara-ii-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-048-BHASKARA-II",
-      "index_ref": "library/medieval/bhaskara-ii-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-048-BHASKARA-II"
     },
     {
+      "index_ref": "library/medieval/jayadeva-index.md",
       "shelf_id": "jayadeva-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-049-JAYADEVA",
-      "index_ref": "library/medieval/jayadeva-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-049-JAYADEVA"
     },
     {
+      "index_ref": "library/medieval/jnaneshwar-index.md",
       "shelf_id": "jnaneshwar-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-050-JNANESHWAR",
-      "index_ref": "library/medieval/jnaneshwar-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-050-JNANESHWAR"
     },
     {
+      "index_ref": "library/medieval/minhaj-i-siraj-juzjani-index.md",
       "shelf_id": "minhaj-i-siraj-juzjani-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-051-MINHAJ-SIRAJ",
-      "index_ref": "library/medieval/minhaj-i-siraj-juzjani-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-051-MINHAJ-SIRAJ"
     },
     {
+      "index_ref": "library/medieval/amir-khusrau-index.md",
       "shelf_id": "amir-khusrau-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-052-AMIR-KHUSRAU",
-      "index_ref": "library/medieval/amir-khusrau-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-052-AMIR-KHUSRAU"
     },
     {
+      "index_ref": "library/medieval/xuanzang-and-bianji-index.md",
       "shelf_id": "xuanzang-and-bianji-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-055-XUANZANG",
-      "index_ref": "library/medieval/xuanzang-and-bianji-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-055-XUANZANG"
     },
     {
+      "index_ref": "library/medieval/du-you-index.md",
       "shelf_id": "du-you-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-056-DU-YOU",
-      "index_ref": "library/medieval/du-you-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-056-DU-YOU"
     },
     {
+      "index_ref": "library/medieval/sima-guang-and-northern-song-compilation-team-index.md",
       "shelf_id": "sima-guang-and-northern-song-compilation-team-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-057-SIMA-GUANG",
-      "index_ref": "library/medieval/sima-guang-and-northern-song-compilation-team-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-057-SIMA-GUANG"
     },
     {
+      "index_ref": "library/medieval/shen-kuo-index.md",
       "shelf_id": "shen-kuo-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-058-SHEN-KUO",
-      "index_ref": "library/medieval/shen-kuo-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-058-SHEN-KUO"
     },
     {
+      "index_ref": "library/medieval/su-song-index.md",
       "shelf_id": "su-song-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-059-SU-SONG",
-      "index_ref": "library/medieval/su-song-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-059-SU-SONG"
     },
     {
+      "index_ref": "library/medieval/zhu-xi-index.md",
       "shelf_id": "zhu-xi-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-060-ZHU-XI",
-      "index_ref": "library/medieval/zhu-xi-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-060-ZHU-XI"
     },
     {
+      "index_ref": "library/medieval/li-qingzhao-index.md",
       "shelf_id": "li-qingzhao-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-061-LI-QINGZHAO",
-      "index_ref": "library/medieval/li-qingzhao-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-061-LI-QINGZHAO"
     },
     {
+      "index_ref": "library/medieval/song-shi-yuan-editorial-tradition-index.md",
       "shelf_id": "song-shi-yuan-editorial-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-062-SONG-SHI-TRADITION",
-      "index_ref": "library/medieval/song-shi-yuan-editorial-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-062-SONG-SHI-TRADITION"
     },
     {
+      "index_ref": "library/medieval/nihon-shoki-court-compilation-tradition-index.md",
       "shelf_id": "nihon-shoki-court-compilation-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-065-NIHON-SHOKI-TRADITION",
-      "index_ref": "library/medieval/nihon-shoki-court-compilation-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-065-NIHON-SHOKI-TRADITION"
     },
     {
+      "index_ref": "library/medieval/murasaki-shikibu-index.md",
       "shelf_id": "murasaki-shikibu-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-066-MURASAKI-SHIKIBU",
-      "index_ref": "library/medieval/murasaki-shikibu-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-066-MURASAKI-SHIKIBU"
     },
     {
+      "index_ref": "library/medieval/kamakura-bakufu-chronicle-editorial-tradition-index.md",
       "shelf_id": "kamakura-bakufu-chronicle-editorial-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-067-AZUMA-KAGAMI-TRADITION",
-      "index_ref": "library/medieval/kamakura-bakufu-chronicle-editorial-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-067-AZUMA-KAGAMI-TRADITION"
     },
     {
+      "index_ref": "library/medieval/heike-monogatari-performance-textual-tradition-index.md",
       "shelf_id": "heike-monogatari-performance-textual-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-068-TALE-OF-HEIKE-TRADITION",
-      "index_ref": "library/medieval/heike-monogatari-performance-textual-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-068-TALE-OF-HEIKE-TRADITION"
     },
     {
+      "index_ref": "library/medieval/kim-busik-and-goryeo-court-compilation-index.md",
       "shelf_id": "kim-busik-and-goryeo-court-compilation-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-069-SAMGUK-SAGI",
-      "index_ref": "library/medieval/kim-busik-and-goryeo-court-compilation-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-069-SAMGUK-SAGI"
     },
     {
+      "index_ref": "library/medieval/goryeosa-joseon-court-editorial-tradition-index.md",
       "shelf_id": "goryeosa-joseon-court-editorial-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-070-GORYEOSA-TRADITION",
-      "index_ref": "library/medieval/goryeosa-joseon-court-editorial-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-070-GORYEOSA-TRADITION"
     },
     {
+      "index_ref": "library/medieval/geoffrey-chaucer-index.md",
       "shelf_id": "geoffrey-chaucer-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-073-GEOFFREY-CHAUCER",
-      "index_ref": "library/medieval/geoffrey-chaucer-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-073-GEOFFREY-CHAUCER"
     },
     {
+      "index_ref": "library/medieval/marco-polo-and-rustichello-of-pisa-textual-tradition-index.md",
       "shelf_id": "marco-polo-and-rustichello-of-pisa-textual-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-074-MARCO-POLO-RUSTICHELLO-TRADITION",
-      "index_ref": "library/medieval/marco-polo-and-rustichello-of-pisa-textual-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-074-MARCO-POLO-RUSTICHELLO-TRADITION"
     },
     {
+      "index_ref": "library/medieval/alf-layla-wa-layla-medieval-textual-tradition-index.md",
       "shelf_id": "alf-layla-wa-layla-medieval-textual-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-075-ALF-LAYLA-WA-LAYLA-TRADITION",
-      "index_ref": "library/medieval/alf-layla-wa-layla-medieval-textual-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-075-ALF-LAYLA-WA-LAYLA-TRADITION"
     },
     {
+      "index_ref": "library/medieval/rus-primary-chronicle-textual-tradition-index.md",
       "shelf_id": "rus-primary-chronicle-textual-tradition-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-076-POVEST-VREMENNYKH-LET-TRADITION",
-      "index_ref": "library/medieval/rus-primary-chronicle-textual-tradition-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-076-POVEST-VREMENNYKH-LET-TRADITION"
     },
     {
+      "index_ref": "library/medieval/john-of-plano-carpini-index.md",
       "shelf_id": "john-of-plano-carpini-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-077-JOHN-OF-PLANO-CARPINI",
-      "index_ref": "library/medieval/john-of-plano-carpini-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-077-JOHN-OF-PLANO-CARPINI"
     },
     {
+      "index_ref": "library/medieval/william-of-rubruck-index.md",
       "shelf_id": "william-of-rubruck-shelf",
-      "source_id": "LIB-MEDIEVAL-AUTHORITY-078-WILLIAM-OF-RUBRUCK",
-      "index_ref": "library/medieval/william-of-rubruck-index.md"
+      "source_id": "LIB-MEDIEVAL-AUTHORITY-078-WILLIAM-OF-RUBRUCK"
+    },
+    {
+      "index_ref": "library/industrial/ralph-waldo-emerson-index.md",
+      "shelf_id": "ralph-waldo-emerson-shelf",
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-102-EMERSON"
+    },
+    {
+      "index_ref": "library/industrial/nathaniel-hawthorne-index.md",
+      "shelf_id": "nathaniel-hawthorne-shelf",
+      "source_id": "LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE"
+    },
+    {
+      "index_ref": "library/colonial/thomas-jefferson-index.md",
+      "shelf_id": "thomas-jefferson-shelf",
+      "source_id": "LIB-COLONIAL-AUTHORITY-082-JEFFERSON"
+    },
+    {
+      "index_ref": "library/colonial/james-madison-index.md",
+      "shelf_id": "james-madison-shelf",
+      "source_id": "LIB-COLONIAL-AUTHORITY-083-MADISON"
+    },
+    {
+      "index_ref": "library/colonial/alexander-hamilton-index.md",
+      "shelf_id": "alexander-hamilton-shelf",
+      "source_id": "LIB-COLONIAL-AUTHORITY-084-HAMILTON"
     }
   ]
 }

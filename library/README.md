@@ -210,7 +210,7 @@ All catalog sources are listed below. Reading bodies remain external.
 | LIB-INDUSTRIAL-AUTHORITY-026-DOUGLASS | Frederick Douglass | Narrative; selected speeches | industrial | 7 |
 | LIB-INDUSTRIAL-AUTHORITY-027-JACOBS | Harriet Jacobs | Incidents in the Life of a Slave Girl | industrial | 1 |
 | LIB-INDUSTRIAL-AUTHORITY-025-DU-BOIS | W. E. B. Du Bois | The Souls of Black Folk | industrial | 1 |
-| LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE | Herman Melville | Moby-Dick | industrial | 1 |
+| LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE | Herman Melville | Herman Melville — major works | industrial | 17 |
 | LIB-INDUSTRIAL-AUTHORITY-024-TWAIN | Mark Twain | Huckleberry Finn; Life on the Mississippi | industrial | 2 |
 | LIB-INDUSTRIAL-AUTHORITY-061-ZOLA | Emile Zola | Germinal; J'accuse | industrial | 2 |
 | LIB-INDUSTRIAL-AUTHORITY-062-HARDY | Thomas Hardy | Tess; Jude the Obscure | industrial | 2 |
@@ -278,3 +278,8 @@ All catalog sources are listed below. Reading bodies remain external.
 | LIB-COLONIAL-AUTHORITY-078-BURKE | Edmund Burke | Speech on Fox’s East India Bill | colonial | 1 |
 | LIB-COLONIAL-AUTHORITY-079-HUME | David Hume | Of Public Credit | colonial | 1 |
 | LIB-COLONIAL-AUTHORITY-080-MACHIAVELLI | Niccolò Machiavelli | Discourses on Livy | colonial | 1 |
+| LIB-INDUSTRIAL-AUTHORITY-102-EMERSON | Ralph Waldo Emerson | Ralph Waldo Emerson — major works | industrial | 15 |
+| LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE | Nathaniel Hawthorne | Nathaniel Hawthorne — major works | industrial | 17 |
+| LIB-COLONIAL-AUTHORITY-082-JEFFERSON | Thomas Jefferson | Thomas Jefferson — major public writings | colonial | 5 |
+| LIB-COLONIAL-AUTHORITY-083-MADISON | James Madison | James Madison — major public writings | colonial | 6 |
+| LIB-COLONIAL-AUTHORITY-084-HAMILTON | Alexander Hamilton | Alexander Hamilton — major public writings | colonial | 7 |

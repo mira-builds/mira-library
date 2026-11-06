@@ -11,7 +11,7 @@
 - `LIB-INDUSTRIAL-AUTHORITY-026-DOUGLASS` — Narrative; selected speeches
 - `LIB-INDUSTRIAL-AUTHORITY-027-JACOBS` — Incidents in the Life of a Slave Girl
 - `LIB-INDUSTRIAL-AUTHORITY-025-DU-BOIS` — The Souls of Black Folk
-- `LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE` — Moby-Dick
+- `LIB-INDUSTRIAL-AUTHORITY-023-MELVILLE` — Herman Melville — major works
 - `LIB-INDUSTRIAL-AUTHORITY-024-TWAIN` — Huckleberry Finn; Life on the Mississippi
 - `LIB-INDUSTRIAL-AUTHORITY-061-ZOLA` — Germinal; J'accuse
 - `LIB-INDUSTRIAL-AUTHORITY-062-HARDY` — Tess; Jude the Obscure
@@ -72,3 +72,5 @@
 - `LIB-INDUSTRIAL-AUTHORITY-080-UDHR-DRAFTING` — UDHR and drafting documents
 - `LIB-INDUSTRIAL-AUTHORITY-096-UNITED-NATIONS-CHARTER` — UN Charter; conference records
 - `LIB-INDUSTRIAL-AUTHORITY-078-CARSON` — Silent Spring
+- `LIB-INDUSTRIAL-AUTHORITY-102-EMERSON` — Ralph Waldo Emerson — major works
+- `LIB-INDUSTRIAL-AUTHORITY-103-HAWTHORNE` — Nathaniel Hawthorne — major works
